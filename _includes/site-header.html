@@ -1,0 +1,38 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+    {% if page.layout != 'home' %}
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ page.title | escape }}</a>
+    {% endif %}
+
+    {% if page_paths %}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+              menu
+          </span>
+        </label>
+
+        <div class="trigger">
+          <a class="page-link" href="/">Welkom</a>
+          <a class="page-link" href="/taijiquan/weeklessen.html">Weeklessen</a>
+          <a class="page-link" href="/taijiquan/stages-zuid-frankrijk.html">Zuid-Frankrijk</a>
+          <a class="page-link" href="/taijiquan/stages-hoepertingen.html">Hoepertingen</a>
+          <a class="page-link" href="/taijiquan/vorm.html">De Vorm</a>
+          <a class="page-link" href="/wie-ben-ik.html">Wie ben ik</a>
+          <a class="page-link" href="/contact.html">Contact</a>
+      {{/* <a class="page-link" href="/taijiquan/wat-is-taijiquan.html">Wat is TaijiQuan?</a> */}}
+      {{/* <a class="page-link" href="/feest.html">Feest</a> */}}
+      {{/* <a class="page-link" href="/over-deze-site.html">Over deze site</a> */}}
+      {{/* <a class="page-link" href="/taijiquan/esoterie.html">Esoterie</a> */}}
+      {{/* <a class="page-link" href="/taijiquan/dao.html">Dao</a> */}}
+      {{/* <a class="page-link" href="/taijiquan/bewustzijn.html">Bewustzijn</a> */}}
+        </div>
+      </nav>
+    {% endif %}
+  </div>
+</header>

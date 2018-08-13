@@ -1,0 +1,11 @@
+---
+title: "404"
+layout: page
+---
+
+
+Er is dus ergens iets fout gelopen. 
+
+De pagina die u zocht, bestaat niet meer of het adres is fout.
+
+Probeer een van de linken in het menu.

@@ -16,123 +16,121 @@ layout: page
 <table summary="Deel 1 van de vorm">
 	<tbody>
 		<tr>
-			<td width="160">
-				Yu bei shi (wuji)</td>
-			<td width="400">
-				Voorbereiding (wuji)</td>
+			<td>Yu bei shi (wuji)</td>
+			<td>Voorbereiding (wuji)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Qi shi taiji</td>
-			<td width="400">
+			<td>
 				Open taiji</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lan que wei</td>
-			<td width="400">
+			<td>
 				Strijk over de staart van de mus</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Beng</td>
-			<td width="400">
+			<td>
 				Drukken (Schiet een pijl naar het doel)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ji</td>
-			<td width="400">
+			<td>
 				Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				An</td>
-			<td width="400">
+			<td>
 				Duwen (tegen de berg)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep (beweging van de DAN)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Tishou shangshi</td>
-			<td width="400">
+			<td>
 				Splijten (hef de hand)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Baihe liangchi</td>
-			<td width="400">
+			<td>
 				Witte kraanvogel spreidt zijn vleugels</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shouhui pipa</td>
-			<td width="400">
+			<td>
 				Speel de luit</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shouhui Pipa</td>
-			<td width="400">
+			<td>
 				Speel de luit</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ban lan chui</td>
-			<td width="400">
+			<td>
 				Wring (de arm), blokkeer (het gewricht) en stoot (met de vuist)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Rufeng sibi</td>
-			<td width="400">
+			<td>
 				Trek terug en duw</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shizishou</td>
-			<td width="400">
+			<td>
 				Kruis de handen (de armen maken het Chinees nummer tien)</td>
 		</tr>
 	</tbody>
@@ -147,285 +145,263 @@ layout: page
 <table summary="Deel 2 van de vorm">
 	<tbody>
 		<tr>
-			<td width="160">
+			<td>
 				Baohu guishan</td>
-			<td width="400"">
+			<td>
 				Omhels de tijger en keer terug naar de berg</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400"">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Beng</td>
-			<td width="400"">
-				Drukken</td>
+			<td>Beng</td>
+			<td>Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Lu</td>
-			<td width="400"">
-				Trek terug</td>
+			<td>Lu</td>
+			<td>Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Ji</td>
-			<td width""400"">
-				Wringen</td>
+			<td>Ji</td>
+			<td>Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
-				An</td>
-			<td width="400">
-				Duwen</td>
+			<td>An</td>
+			<td>Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Open enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhoudi chui</td>
-			<td width="400">
+			<td>
 				De vuist verborgen onder de elleboog</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Xie fei</td>
-			<td width="400">
+			<td>
 				Schuin vliegen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Tishou shangshi</td>
-			<td width="400">
+			<td>
 				Grote afweer</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Baihe liangchi</td>
-			<td width="400">
+			<td>
 				Witte kraanvogel spreidt zijn vleugels</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Haidi zhen</td>
-			<td width="400">
+			<td>
 				Haal de naald van de bodem van de zee</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shan tong bei</td>
-			<td width="400">
+			<td>
 				De bliksem waaiert driemaal door de rug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Zhuan shen pi shen chui</td>
-			<td width="400">
-				Keer en stoot</td>
+			<td>Zhuan shen pi shen chui</td>
+			<td>Keer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Ban lan chui</td>
-			<td width="400">
-				Wring, blokkeer en stoot</td>
+			<td>Ban lan chui</td>
+			<td>Wring, blokkeer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Beng</td>
-			<td width="400">
-				Drukken</td>
+			<td>Beng</td>
+			<td>Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Lu</td>
-			<td width="400">
-				Trek terug</td>
+			<td>Lu</td>
+			<td>Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Ji</td>
-			<td width="400">
-				Wringen</td>
+			<td>Ji</td>
+			<td>Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
-				An</td>
-			<td width="400">
-				Duwen</td>
+			<td>An</td>
+			<td>Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Danbian</td>
-			<td width="400">
-				Enkele zweep</td>
+			<td>Danbian</td>
+			<td>Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De Handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You yun shou</td>
-			<td width="400">
+			<td>
 				De Handen wuiven als wolken rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De Handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Gao tanma</td>
-			<td width="400">
+			<td>
 				De verkenner (hoog klopje op het paard)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You fen jiao</td>
-			<td width="400">
+			<td>
 				Zijdelingse trap, rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo fen jiao</td>
-			<td width="400">
+			<td>
 				Zijdelingse trap, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen zuo deng jiao</td>
-			<td width="400">
+			<td>
 				Keer en voorwaartse trap links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zai chui</td>
-			<td width="400">
+			<td>
 				Lage vuiststoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen pi shen chui</td>
-			<td width="400">
+			<td>
 				Keer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ban lan chui</td>
-			<td width="400">
+			<td>
 				Wring, blokkeer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You deng jiao</td>
-			<td width="400">
+			<td>
 				Voorwaartse trap rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo da hu</td>
-			<td width="400">
+			<td>
 				Sla de tijger links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You da hu</td>
-			<td width="400">
+			<td>
 				Sla de tijger rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You deng jiao</td>
-			<td width="400">
+			<td>
 				Voorwaartse trap rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shuanfeng guaner</td>
-			<td width="400">
+			<td>
 				De wind blaast door de twee oren</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo deng jiao</td>
-			<td width="400">
+			<td>
 				Voorwaartse trap links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen zuo deng jiao</td>
-			<td width="400">
+			<td>
 				Grote draai en voorwaartse trap rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ban lan chui</td>
-			<td width="400">
+			<td>
 				Wring, blokkeer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Rufeng sibi</td>
-			<td width="400">
+			<td>
 				Trek terug en duw</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shizishou</td>
-			<td width="400">
+			<td>
 				Kruis de handen</td>
 		</tr>
 	</tbody>
@@ -440,429 +416,413 @@ layout: page
 <table summary="Deel 3 van de vorm">
 	<tbody>
 		<tr>
-			<td width="160">
+			<td>
 				Baohu guishan</td>
-			<td width="400">
+			<td>
 				Omhels de tijger en keer terug naar de berg</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Lu</td>
-			<td width="400">
-				Trek terug</td>
+			<td>Lu</td>
+			<td>Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Beng</td>
-			<td width="400">
-				Drukken</td>
+			<td>Beng</td>
+			<td>Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Lu</td>
-			<td width="400">
-				Trek terug</td>
+			<td>Lu</td>
+			<td>Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Ji</td>
-			<td width="400">
-				Wringen</td>
+			<td>Ji</td>
+			<td>Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
-				An</td>
-			<td width="400">
-				Duwen</td>
+			<td>An</td>
+			<td>Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
-				Danbian</td>
-			<td width="400">
-				Enkele zweep</td>
+			<td>Danbian</td>
+			<td>Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>Zuo yema fenzhong</td>
+			<td>De wilde mustang schudt zijn manen rechts</td>
+		</tr>
+		<tr>
+			<td>You yema fenzhong</td>
+			<td>De wilde mustang schudt zijn manen links</td>
+		</tr>
+		<tr>
+			<td>
 				Zuo yema fenzhong</td>
-			<td width="400">
+			<td>
 				De wilde mustang schudt zijn manen rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
-				You yema fenzhong</td>
-			<td width="400">
-				De wilde mustang schudt zijn manen links</td>
-		</tr>
-		<tr>
-			<td width="160">
-				Zuo yema fenzhong</td>
-			<td width="400">
-				De wilde mustang schudt zijn manen rechts</td>
-		</tr>
-		<tr>
-			<td width="160">
+			<td>
 				Kao</td>
-			<td width="400">
+			<td>
 				Schouderstoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Beng</td>
-			<td width="400">
+			<td>
 				Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ji</td>
-			<td width="400">
+			<td>
 				Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				An</td>
-			<td width="400">
+			<td>
 				Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Yunu chuanso yi</td>
-			<td width="400">
+			<td>
 				Mooie dame met het weefgetouw een</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Yunu chuanso er</td>
-			<td width="400">
+			<td>
 				Mooie dame met het weefgetouw twee</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Yunu chuanso san</td>
-			<td width="400">
+			<td>
 				Mooie dame met het weefgetouw drie</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Yunu chuanso si</td>
-			<td width="400">
+			<td>
 				Mooie dame met het weefgetouw vier</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Beng</td>
-			<td width="400">
+			<td>
 				Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ji</td>
-			<td width="400">
+			<td>
 				Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				An</td>
-			<td width="400">
+			<td>
 				Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Sheshen xiashi</td>
-			<td width="400">
+			<td>
 				De witte slang kruipt naar beneden</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You jinji duli</td>
-			<td width="400">
+			<td>
 				Gouden haan staat op &eacute;&eacute;n been links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo jinji duli</td>
-			<td width="400">
+			<td>
 				Gouden haan staat op &eacute;&eacute;n been rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo daonian hou</td>
-			<td width="400">
+			<td>
 				Stap terug en duw de aap weg links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Xie fei</td>
-			<td width="400">
+			<td>
 				Schuin vliegen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ti shou shangshi</td>
-			<td width="400">
+			<td>
 				Grote afweer</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Baihe liangchi</td>
-			<td width="400">
+			<td>
 				Witte kraanvogel spreidt zijn vleugels</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo louxi aobu</td>
-			<td width="400">
+			<td>
 				Borstel de knie, links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Haidi zhen</td>
-			<td width="400">
+			<td>
 				Haal de naald van de bodem van de zee</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shan tong bei</td>
-			<td width="400">
+			<td>
 				De bliksem waaiert driemaal door de rug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen pi shen chui</td>
-			<td width="400">
+			<td>
 				Keer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ban lan chui</td>
-			<td width="400">
+			<td>
 				Wring, blokkeer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Beng</td>
-			<td width="400">
+			<td>
 				Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ji</td>
-			<td width="400">
+			<td>
 				Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				An</td>
-			<td width="400">
+			<td>
 				Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				You yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zuo yun shou</td>
-			<td width="400">
+			<td>
 				De handen wuiven als wolken links</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Gao tanma</td>
-			<td width="400">
+			<td>
 				De verkenner (hoog klopje op het paard)</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Baishe tuxin</td>
-			<td width="400">
+			<td>
 				De witte slang steekt zijn tong uit</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen you deng jiao</td>
-			<td width="400">
+			<td>
 				Keer en voorwaartse trap rechts</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Louxi</td>
-			<td width="400">
+			<td>
 				Borstel de knie</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhidang chui</td>
-			<td width="400">
+			<td>
 				Lage vuiststoot naar het kruis</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Beng</td>
-			<td width="400">
+			<td>
 				Drukken</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Lu</td>
-			<td width="400">
+			<td>
 				Trek terug</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ji</td>
-			<td width="400">
+			<td>
 				Wringen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				An</td>
-			<td width="400">
+			<td>
 				Duwen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Danbian</td>
-			<td width="400">
+			<td>
 				Enkele zweep</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Sheshen xiashi</td>
-			<td width="400">
+			<td>
 				De witte slang kruipt naar beneden</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shang qixingbu</td>
-			<td width="400">
+			<td>
 				Stap op naar de Grote Beer</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Gao tanma</td>
-			<td width="400">
+			<td>
 				Omgekeerde verkenners houding</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Zhuan shen bailian tui</td>
-			<td width="400">
+			<td>
 				Zijdelingse trap als een wuivende lotus</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Wangong shehu</td>
-			<td width="400">
+			<td>
 				Span de boog en schiet de tijger</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Ban lan chui</td>
-			<td width="400">
+			<td>
 				Wring, blokkeer en stoot</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Rufeng sibi</td>
-			<td width="400">
+			<td>
 				Trek terug en duw</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				Shizishou</td>
-			<td width="400">
+			<td>
 				Kruis de handen</td>
 		</tr>
 		<tr>
-			<td width="160">
+			<td>
 				He taiji</td>
-			<td width="400"">
+			<td>
 				Sluiten vorm</td>
 		</tr>
 	</tbody>

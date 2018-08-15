@@ -60,16 +60,16 @@ layout: page
 	<td>&nbsp;</td>
 	<td>13:30-15:00<br>Vergevorderd <br>door Eddy Present</td>
 </tr>
-<tr>
+<!-- <tr>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>15:15-16:45<br>?? <br>door Anne-Marie Van den Bossche</td>
-</tr>
+</tr> -->
 <tr>
 	<td>18:45-20:15<br>Vergevorderd  <br>door Eddy Present</td>
-	<td>19:00-20:15<br>Beginners <br>door Frank</td>
+	<td>19:00-20:15<br>Beginners <br>door Frank Dejoncheere</td>
 	<td>18:45-20:15<br>Vergevorderd <br>door Eddy Present</td>
 	<td>&nbsp;</td>
 	<td>19:00-20:15<br>Beginners <br>door Anne-Marie Van den Bossche</td>

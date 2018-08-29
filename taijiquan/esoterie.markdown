@@ -5,17 +5,18 @@ comments: false
 sharing: false
 footer: true
 ---
-### De geheimen van het universum
-### Wat gebeurt er als we sterven?
-### Hoe is het leven op aarde ingedeeld?
-### Wat kunnen we doen met esoterische kennis?
-### Wat zijn kosmische verbanden?
-### Wat is trilling?
-### Hoe werkt het denken?
-### Wat is de invloed van gedachten en emoties?
-### Wat is de spiegeltheorie?
-### Welke zijn de tijdperken van de mensheid?
-### Wat is reflectie?
+
+-  De geheimen van het universum
+-  Wat gebeurt er als we sterven?
+-  Hoe is het leven op aarde ingedeeld?
+-  Wat kunnen we doen met esoterische kennis?
+-  Wat zijn kosmische verbanden?
+-  Wat is trilling?
+-  Hoe werkt het denken?
+-  Wat is de invloed van gedachten en emoties?
+-  Wat is de spiegeltheorie?
+-  Welke zijn de tijdperken van de mensheid?
+-  Wat is reflectie?
 
 Hoe weet men dat men op het juiste pad zit? Het is een vraag die vele mensen bezig houdt.  
 Wat betekent ziekte in het leven en hoe voorkomt men dit? Hoe leer ik het beste van mijn ziekte?  

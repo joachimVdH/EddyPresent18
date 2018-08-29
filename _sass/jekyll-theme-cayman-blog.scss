@@ -341,6 +341,25 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  background-color: $header-bg-color;
+  color: white;
+
+  input {color: black;}
+
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 
   @include large {
     font-size: 1rem;

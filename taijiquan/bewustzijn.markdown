@@ -5,33 +5,33 @@ comments: false
 sharing: false
 footer: true
 ---
+
 Nieuwe cursus De Natuur van Bewustzijn - [lees de pdf flyer](/flyers/2018_NatuurVanBewustzijn.pdf) of op de website van 
 [op de website van assess.be](http://www.assess.be/programmas/de-natuur-van-bewustzijn/?fromEddyPresent)  
 Taiji-studenten kunnen aan deze cursus deelnemen voor de prijs van 550,- Euro.
 
 ---
----
-### Wat is bewustzijn?
-### Wat is de natuur van bewustzijn?
-### Wat zijn de niveaus van bewustzijn?
-### Hoe werkt bewustzijn?
-### Hoe overstijgen we de niveaus van bewustzijn?
-### Wat is ego?
-### Wat is de mind?
-### Wat zijn gedachten?
-### Hoe werkt bewustzijn in de politiek, in de bedrijfswereld, in de kunst, in de sport?
-### Hoe is het bewustzijn verdeeld in de wereld?
-### Hoe weet men dat men op het juiste pad zit? Het is een vraag die vele mensen bezig houdt.  
-### Wat betekent ziekte in het leven en hoe voorkomt men dit? Hoe leer ik het beste van mijn ziekte?  
-### Hoe komt het dat ik altijd 'tegenslag' heb in het leven?   
-### Wat en wie reflecteert mij en hoe haal ik daar het meeste uit?
-### Hoe herken ik de geestelijke wereld door middel van inversie en reflectie?
-### Wat is dat, inversie en reflectie?
+
+-  Wat is bewustzijn?
+-  Wat is de natuur van bewustzijn?
+-  Wat zijn de niveaus van bewustzijn?
+-  Hoe werkt bewustzijn?
+-  Hoe overstijgen we de niveaus van bewustzijn?
+-  Wat is ego?
+-  Wat is de mind?
+-  Wat zijn gedachten?
+-  Hoe werkt bewustzijn in de politiek, in de bedrijfswereld, in de kunst, in de sport?
+-  Hoe is het bewustzijn verdeeld in de wereld?
+-  Hoe weet men dat men op het juiste pad zit? Het is een vraag die vele mensen bezig houdt.  
+-  Wat betekent ziekte in het leven en hoe voorkomt men dit? Hoe leer ik het beste van mijn ziekte?  
+-  Hoe komt het dat ik altijd 'tegenslag' heb in het leven?   
+-  Wat en wie reflecteert mij en hoe haal ik daar het meeste uit?
+-  Hoe herken ik de geestelijke wereld door middel van inversie en reflectie?
+-  Wat is dat, inversie en reflectie?
 
 Dit en nog vele andere vragen worden beantwoordt in de cursus 
 
-#De Natuur van Bewustzijn.
-
+## De Natuur van Bewustzijn.
 
 Deze cursus wordt gegeven op aanvraag van particulieren, bedrijven en scholen.
 

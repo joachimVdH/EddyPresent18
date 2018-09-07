@@ -16,7 +16,8 @@
 title: Eddy Present
 email: eddypresent@telenet.be
 description: >- # this means to ignore newlines until "baseurl:"
-  Eddy Present is een professionele lesgever TaijiQuan, Bewustzijn en Esoterie. Intensieve stages over op TaijiQuan en Qi (energie) zijn zeer gewild vanwege hun diepgaand effect op lichaam en geest.
+  Eddy Present is een professionele lesgever TaijiQuan, Bewustzijn en Esoterie. 
+  Intensieve stages over TaijiQuan en Qi in Mechelen, Grimbergen, Hoepertingen, Montpellier
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eddypresent.be" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

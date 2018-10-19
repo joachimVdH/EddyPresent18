@@ -11,6 +11,11 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
+Informatie voor het feest kan je vinden op:
+[180911_Feest.pdf](/flyers/180911_Feest.pdf)
+
+
+---
 ### Belangrijk: 
 De studenten van maandag in Grimbergen die kwamen van 20h30 tot 22h00 worden verplaatst: zij kunnen kiezen ofwel: maandag, de eerste les vanaf 18h45 ofwel één van de lessen op woensdagavond (18h45 of 20h30).  
 ### Belangrijk: 

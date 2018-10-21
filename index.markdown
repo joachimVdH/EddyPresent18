@@ -11,17 +11,21 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
-Informatie voor het feest kan je vinden op:
-[180911_Feest.pdf](/flyers/180911_Feest.pdf)
-
+Hallo iedereen,
+ 
+27 oktober is het zover: "big party" in feestzaal ’t Lepeltje, Naalstraat, 43D in Duffel!  
+De deuren openen om 19h00. Er is meer dan parking genoeg op het terrein van het sportcomplex. De zaal bevindt zich tegenover het sportcomplex.  
+  
+De meeste van mijn studenten hebben hun drankbonnetjes al. Voor diegenen die ze nog moeten hebben, die worden dan overhandigd bij het arriveren vooraan in de zaal. Er zal tevens een tafel voorzien worden bij het binnenkomen waarop je bijkomende bonnetjes kan verkrijgen: 2,5 euro voor groene bonnetjes voor lichtere dranken zoals water, limonade, pils, enz… en 4 euro voor zware bieren en wijnen. Rond 20h30 worden snacks voorzien en rond 22h00 zullen minibroodjes de magen stillen.  
+   
+Vooral veel plezier, leute, lol en dans en zing er maar op los! De DJ zal alles spelen wat jullie tot dansen zal aanzetten!  
+   
+Tot dan!  
+   
+Eddy
 
 ---
 ### Belangrijk: 
-De studenten van maandag in Grimbergen die kwamen van 20h30 tot 22h00 worden verplaatst: zij kunnen kiezen ofwel: maandag, de eerste les vanaf 18h45 ofwel één van de lessen op woensdagavond (18h45 of 20h30).  
-### Belangrijk: 
-De studenten van dinsdag in Mechelen die kwamen van 20h30 tot 22h00 worden verplaatst: zij kunnen kiezen ofwel: dinsdag, de eerste les vanaf 18h45 ofwel één van de lessen op donderdagavond (18h45 of 20h30). 
-Op vrijdagmiddag begint de les om 13h30 tot 15h00 in plaats van 14h00. 
-Op vrijdagavond begint de les om 20h30 tot 22h00 in plaats van 20h15. 
 
 Op de lessenroosters kunnen de studenten zien wie les geeft, wanneer en in welke zaal (voor Grimbergen), op de uurrooster kunnen de studenten de exacte uren terugvinden. 
 

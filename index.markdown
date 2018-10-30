@@ -11,19 +11,18 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
-Hallo iedereen,
+Hallo iedereen,  
  
-27 oktober is het zover: "big party" in feestzaal ’t Lepeltje, Naalstraat, 43D in Duffel!  
-De deuren openen om 19h00. Er is meer dan parking genoeg op het terrein van het sportcomplex. De zaal bevindt zich tegenover het sportcomplex.  
+Het was een spetterend feest, vonden jullie niet? Ik bedank iedereen die bijgedragen heeft aan het succes ervan. Ook voor jullie partners waarmee ik kennis mocht maken. Zoals ik die avond tegen een aantal mensen heb gezegd: "Ik organiseer het feest, maar jullie maken het feest!". En dat was ook zo. Ik heb zelfs complimenten gekregen van de eigenares van de zaal en van de DJ’s: "Zelden zo’n hoop open, gezellige en danslustige mensen bij elkaar gezien!" Het deed me goed jullie zo te zien dansen, zonder complexen, ieder op zijn of haar eigen manier van expressie. Jong, wat ouder (boven de negentig), alles door elkaar, maar als één verbonden streng. Wat een vrijheid, wat een vredevol gebeuren!  
   
-De meeste van mijn studenten hebben hun drankbonnetjes al. Voor diegenen die ze nog moeten hebben, die worden dan overhandigd bij het arriveren vooraan in de zaal. Er zal tevens een tafel voorzien worden bij het binnenkomen waarop je bijkomende bonnetjes kan verkrijgen: 2,5 euro voor groene bonnetjes voor lichtere dranken zoals water, limonade, pils, enz… en 4 euro voor zware bieren en wijnen. Rond 20h30 worden snacks voorzien en rond 22h00 zullen minibroodjes de magen stillen.  
-   
-Vooral veel plezier, leute, lol en dans en zing er maar op los! De DJ zal alles spelen wat jullie tot dansen zal aanzetten!  
-   
-Tot dan!  
-   
-Eddy
-
+Ik was gisteren een trotse man, jullie allemaal zo bij elkaar te zien: gezellig praten, dansen, kennismaken met andere studenten, dat deed mijn hart opspringen van blijdschap en tegelijk had ik een gevoel van: "Eddy, dat heb je goed gedaan …", misschien een beetje ego, maar toch …  
+  
+Ook aan de mensen die er niet bij konden zijn: een dikke merci voor jullie wensen, er is veel naar jullie gevraagd op het feest. Dus ook daar was er die verbondenheid te voelen die ons, Taiji-studenten, zo kenmerkt. Bedankt iedereen voor de lieve attenties en de vele kaartjes.  
+  
+Ik hoop dat iedereen met eenzelfde gevoel als Léonie en ik naar huis zijn gegaan na het feest. Hoewel ik dat ook wel zag aan jullie blije, open gezichten. Nogmaals dank je wel en ik zou zeggen: op naar 55 jaar werken, 45 jaar Taiji, 35 jaar lesgeven, enz…! Tot op het volgende feest! En natuurlijk ook: tot op de les.  
+  
+Een knuffel voor de vrouwen en een stevige handdruk voor de mannen (ook wel een knuffel, hoor!)  
+  
 ---
 ### Belangrijk: 
 

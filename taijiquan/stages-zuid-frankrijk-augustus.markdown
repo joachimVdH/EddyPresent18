@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Stages Zuid-Frankrijk
+title: Stages Zuid-Frankrijk Mei
 ---
 ### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 

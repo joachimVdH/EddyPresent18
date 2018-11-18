@@ -5,7 +5,7 @@
     {% assign page_paths = site.header_pages | default: default_paths %}
 
     {% if page.layout != 'home' %}
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ page.title | escape }}</a>
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ page.title | escape }}</a><br>
     {% endif %}
 
     {% if page_paths %}
@@ -20,10 +20,11 @@
         <div class="trigger">
           <a class="page-link" href="/">Welkom</a>
           <a class="page-link" href="/taijiquan/weeklessen.html">Weeklessen</a>
-          <a class="page-link" href="/taijiquan/stages-zuid-frankrijk.html">Zuid-Frankrijk</a>
+          <a class="page-link" href="/taijiquan/stages-zuid-frankrijk-mei.html">Stage Mei</a>
+          <a class="page-link" href="/taijiquan/stages-zuid-frankrijk-augustus.html">Stage Aug</a>
           <a class="page-link" href="/taijiquan/stages-hoepertingen.html">Hoepertingen</a>
           <a class="page-link" href="/taijiquan/vorm.html">De Vorm</a>
-          <a class="page-link" href="/wie-ben-ik.html">Wie ben ik</a>
+      {{/*   <a class="page-link" href="/wie-ben-ik.html">Wie ben ik</a>*/}}
           <a class="page-link" href="/contact.html">Contact</a>
       {{/* <a class="page-link" href="/taijiquan/wat-is-taijiquan.html">Wat is TaijiQuan?</a> */}}
       {{/* <a class="page-link" href="/feest.html">Feest</a> */}}

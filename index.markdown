@@ -11,23 +11,38 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
-### De nieuwe data en locatie voor de stages in Augustus zijn bekend. [Lees meer hierover op stage Aug](/taijiquan/stages-zuid-frankrijk-augustus.html)
 
+### NIEUW: Start beginnersgroep vrijdagnamiddag Grimbergen
+Vanaf vrijdagnamiddag 11 januari 2019 start er een nieuwe beginnersgroep in Grimbergen. We starten met de eerste bewegingen van deel 1 van de Yang Hemelberg middenvorm.  
+Een kennismakingsles is steeds gratis en vrijblijvend.  
+Locatie: Charleroyhoeve, Lierbaan 16, 1850 Grimbergen, zaal 1  
+Dag en uur: vrijdag 15:15 tot 16:30, uitgezonderd tijdens de schoolvakanties  
+Lesgever: Anne-Marie Van den Bossche  
+  
 ---
-### Belangrijk: 
-Er wordt gevraagd om zo snel mogelijk te laten weten wie in mei of augustus naar de seminaries 2019 in Frankrijk komt zodat de gite op tijd kan vastgelegd kan worden. 
-### Belangrijk: 
-Er wordt tevens gevraagd om op tijd in te schrijven voor de weekends in Hoepertingen. 
-### Belangrijk: 
-Verder is er een belangrijke wijziging in verband met de organisatie: zowel Grimbergen als Mechelen worden ondergebracht in de TaiJi-vereniging van Grimbergen. Die zal zorgen voor de huur van de zalen, een aantal evenementen, zoals de zomer-taiji, lezingen, workshops, enz. Dit is ook nodig omdat de gemeente de zalen alleen aan verenigingen met een ledenaantal zal verhuren. **Lidmaatschap van de vereniging zal 15 Euro per jaar kosten.** Dit zal onze vereniging krachtiger maken en zullen we in de toekomst beter gaan functioneren als geheel met meerdere opportuniteiten.  
 
-Eddy blijft de seminaries in Frankrijk en de weekenden in Hoepertingen onder zijn hoede nemen. Tijdens het lesjaar zal hij wat minder lesgeven, zoals men kan zien op de lessenroosters.  
-
-Karine en Anne-Marie zullen hem vervangen tijdens die lessen. Eddy raad de studenten dan ook aan om in de mate van het mogelijke zoveel mogelijk naar de lessen te komen zodat Karine en Anne-Marie meer ervaring kunnen opdoen. Eddy zal beide dames verder begeleiden in hun ontwikkeling.  
-
-De 10-beurtenkaarten zullen allemaal terug overhandigt worden aan de studenten zodat aftekenen gemakkelijker wordt. Dit omdat er veel van leraar, lerares gewisseld wordt en dat grote inspanningen vraagt om de kaarten en de administratie er rond up to date te houden. Met uw kaart kan je bij iedereen terecht op de lessen.  
-
-Het is ook belangrijk dat iedereen die de nieuwsbrief wil ontvangen zijn toestemming geeft via de site. Dit in verband met de nieuwe wetten in verband met privacy. Als je niet ingeschreven bent zal men ook geen nieuwsbrief of eventuele veranderingen kunnen ontvangen.  
+De Uitnodiging  
+  
+Het interesseert me niet wat je doet voor de kost.  
+Ik wil weten waar je naar verlangt en of je durft te dromen dat het verlangen van je hart vervuld wordt.  
+Het interesseert me niet hoe oud je bent.  
+Ik wil weten of je het risico durft te nemen jezelf voor gek te zetten voor je dromen, voor het avontuur van in leven zijn.  
+Ik wil weten of je de essentie van je eigen verdriet hebt aangeraakt, of open bent gegaan door de teleurstellingen van het leven, of dat je ineengeschrompeld en gesloten bent geraakt uit angst voor meer pijn.  
+Ik wil weten of je bij die pijn kunt verblijven zonder het te verbergen, of te verbloemen of het op te lossen.  
+Ik wil weten of je met vreugde kunt zijn, die van mij of van jou, of je je door extase kunt laten meevoeren tot in de toppen van je vingers en je tenen, zonder te waarschuwen dat we voorzichtig moeten zijn of realistisch, of dat we rekening moeten houden met de beperkingen van het mens-zijn.  
+Het interesseert me niet of het verhaal dat je vertelt waar is.  
+Ik wil weten of je trouw kunt blijven aan jezelf of je aantijgingen van verraad kunt verdragen zonder je eigen ziel te verraden.  
+Ik wil weten of je schoonheid kunt zien, zelfs als het niet elke dag mooi is, en of je vandaar uit kunt leven.  
+Ik wil weten of je met mislukkingen kunt leven, van jou of van mij, en toch aan de rand van het meer kunt staan en tegen het zilver van de volle maan kunt schreeuwen: ‘Ja!’
+Het interesseert me niet te weten waar je woont of hoeveel geld je hebt.  
+Ik wil weten of je na een nacht van verdriet en wanhoop, vermoeid en gebroken, weer op kunt staan en doen wat gedaan moet worden om de kinderen te voeden.  
+Het interesseert me niet wie je bent of hoe je hier bent gekomen.  
+Ik wil weten of je met mij in het centrum van het vuur kunt staan.  
+Het interesseert me niet wáár, wat of met wie je hebt gestudeerd.  
+Ik wil weten wat jou van binnenuit steun geeft wanneer al het andere wegvalt.  
+Ik wil weten of je alleen kunt zijn met jezelf, of je tijdens eenzame momenten echt van je eigen gezelschap geniet.  
+  
+Oriah Mountain Dreamer  
 
 ---
 

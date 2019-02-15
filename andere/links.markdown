@@ -10,8 +10,8 @@ footer: true
 
 ## Vrienden
 
-* <a href="http://www.senselife.be/" target="_blank">Tamara Solowiew -
-Hypnotherapie, voetreflexologie, holistische massage en spirituele healing.</a>   
+* <a href="http://www.senselife.be/" target="_blank">Tamara Solowiew - Hypnotherapie, voetreflexologie, holistische massage en spirituele healing.</a> **Prima therapeute!**  
+
 * <a href="http://kindertalent.be/" target="_blank">Kindertalent met Léonie van Wissen</a>
 * <a href="https://tantra-re-source.com/" target="_blank">Siegfried Présent is een tantra instructeur en (tantra wellness) masseur.</a>
 * <a href="http://www.kristin-maesschalck.be/" target="_blank">Kristin Maesschalck - Shiatsu - Stoelmassage - Droomanalyse - Familieopstellingen</a>

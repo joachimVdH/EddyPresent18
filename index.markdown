@@ -7,20 +7,9 @@ sharing: false
 footer: true
 ---
 
-### de lessen deze namiddag gaan NIET door ### 
-
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
----
-
-### NIEUW: Start beginnersgroep vrijdagnamiddag Grimbergen
-Vanaf vrijdagnamiddag 11 januari 2019 start er een nieuwe beginnersgroep in Grimbergen. We starten met de eerste bewegingen van deel 1 van de Yang Hemelberg middenvorm.  
-Een kennismakingsles is steeds gratis en vrijblijvend.  
-Locatie: Charleroyhoeve, Lierbaan 16, 1850 Grimbergen, zaal 1  
-Dag en uur: vrijdag 15:15 tot 16:30, uitgezonderd tijdens de schoolvakanties  
-Lesgever: Anne-Marie Van den Bossche  
-  
 ---
 
 De Uitnodiging  

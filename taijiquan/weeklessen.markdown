@@ -11,7 +11,7 @@ layout: page
   crossorigin=""></script>
 
 # Mechelen
-[Download Agenda Mechelen 2018-2019 - pdf - 46kb](/flyers/Mechelen_2018-2019.pdf) 
+[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf) 
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16)
 
@@ -20,20 +20,17 @@ layout: page
 <tr>
 	<th>&nbsp;</th>
 	<th>dinsdag</th>
-	<th>woensdag</th>
 	<th>donderdag</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 	<td>18:45-20:15</td>
-	<td>Gevorderd <br>door Eddy Present</td>
-	<td>Halfgevorderd <br>door Karine Dutli</td>
+	<td>Vergevorderd <br>door Eddy Present</td>
 	<td>Vergevorderd <br>door Eddy Present</td>
 </tr>
 <tr>
 	<td>20:30-22:00</td>
-	<td>Zwaardvorm <br>door Karine Dutli</td>
 	<td>Beginners <br>door Karine Dutli</td>
 	<td>Vergevorderd <br>door Eddy Present</td>
 </tr>
@@ -54,13 +51,11 @@ layout: page
 	<th>maandag</th>
 	<th>dinsdag</th>
 	<th>woensdag</th>
-	<th>//</th>
 	<th>vrijdag</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
@@ -70,21 +65,18 @@ layout: page
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
-	<td>&nbsp;</td>
 	<td>15:15-16:30<br>Beginners<br>door Anne-Marie Van den Bossche</td>
 </tr> 
 <tr>
 	<td>18:45-20:15<br>Vergevorderd  <br>door Eddy Present</td>
-	<td>19:00-20:15<br>Beginners <br>door Frank Dejoncheere</td>
+	<td>19:00-20:15<br>Beginners <br>door Nancy Bevers</td>
 	<td>18:45-20:15<br>Vergevorderd <br>door Eddy Present</td>
-	<td>&nbsp;</td>
-	<td>19:00-20:15<br>Beginners <br>door Anne-Marie Van den Bossche</td>
+	<td>18:45-20:15<br>Halfgevorderd <br>door Anne-Marie Van den Bossche</td>
 </tr>
 <tr>
-	<td> 20:30-22:00<br>Halfgevorderd <br>door Anne-Marie Van den Bossche </td>
 	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
-	<td> 20:30-22:00<br>Gevorderd <br>door Eddy Present </td>
-	<td>&nbsp;</td>
+	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
+	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present </td>
 	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present</td>
 </tr>
 </tbody>

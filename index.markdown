@@ -7,12 +7,7 @@ sharing: false
 footer: true
 ---
 
-### Door diverse omstandigheden zijn we genoodzaakt alle lessen van de Taiji Vereniging de komende 2 weken in Grimbergen en Mechelen te annuleren (incl. de verdiepingstaiji). 
-
-#### Geen nood voor de taijiliefhebbers tijdens de zomermaanden bij droog weer:
-
-- elke maandagavond op de ‘Wijde Wereld Weide’ Guldendal 20, te Grimbergen, (overzijde van het MOT). Start op maandag 1 juli vanaf 19u30.
-- elke donderdagavond aan de verkeerstuin in het vrijbroekpark te Mechelen. Start op donderdag 4 juli om 19:30. 
+#### lessen starten in Mechelen op dinsdag 17 september, in Grimbergen op maandag 2 september
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
@@ -46,7 +41,7 @@ Oriah Mountain Dreamer
 
 ### De agenda's
 
-* [Download Agenda Mechelen 2018-2019 - pdf - 46kb](/flyers/Mechelen_2018-2019.pdf) 
+* [Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf) 
 * [Download Agenda Grimbergen 2018-2019 - pdf - 47kb](/flyers/Grimbergen_2018-2019.pdf) 
 
 ---

@@ -3,8 +3,7 @@ _site
 .jekyll-metadata
 public
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
 .jekyll-cache
-.DS_Store
+_site/
+.sass-cache/
+.jekyll-cache/

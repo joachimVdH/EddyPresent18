@@ -42,7 +42,7 @@ Oriah Mountain Dreamer
 ### De agenda's
 
 * [Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf) 
-* [Download Agenda Grimbergen 2018-2019 - pdf - 47kb](/flyers/Grimbergen_2018-2019.pdf) 
+* [Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf) 
 
 ---
 Taiji artikel in Bodytalk magazine - [lees de pdf](/flyers/TaiChi_voor_lichaam_en_geest_bodytalk.PDF)

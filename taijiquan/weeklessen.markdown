@@ -40,7 +40,7 @@ layout: page
 
 
 # Grimbergen
-[Download Agenda Grimbergen 2018-2019 - pdf - 47kb](/flyers/Grimbergen_2018-2019.pdf) 
+[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf) 
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82)
 

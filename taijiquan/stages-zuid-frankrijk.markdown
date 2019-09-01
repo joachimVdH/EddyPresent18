@@ -2,7 +2,6 @@
 layout: page
 title: Stages Zuid-Frankrijk 
 ---
-<meta http-equiv="refresh" content="0; url=stages-zuid-frankrijk.html">
 ### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
 ## Stages in Saint-Orens-Pauy-Petit  
@@ -64,6 +63,35 @@ Voor alle verdere informatie kan je mij altijd contacteren.
 
 Inschrijven kan bij Eddy. Zie [wie ben ik](../wie-ben-ik.html) en [contact](../contact.html)<br />
 Of even doorgeven op de lessen zelf
+
+### Huidige vrije plaatsen
+
+#### Mei 1 van 16-23 mei 2020:
+
+- 3 plaatsen op een 2-persoonskamer
+- 1 à 2 plaatsen op een 3-4 persoonskamer (mannen)
+- 1 plaats op een 3-4 persoonskamer (vrouwen)
+- 3 à 4 plaatsen voor tenten of mobilhome
+
+#### Mei 2 van 23 -30 mei 2020
+
+- 1 plaats op een 2-persoonskamer (vrouwen)
+- 6 à 8 plaatsen op een 3-4 persoonskamer
+- 3 à 4 plaatsen voor tenten of mobilhome
+
+#### Augustus 1 van 08 tot 15 augustus 2020
+
+- 3 à 4 plaatsen op een 3-4 persoonskamer (vrouwen)
+- 2 à 3 plaatsen op een 3-4 persoonskamer (mannen)
+- 3 à 4 plaatsen voor tenten of mobilhome
+
+#### Augustus 2 van 15 tot 22 augustus 2020
+
+- 1 plaats op een 2-persoonskamer (vrouwen)
+- 2 à 3 plaatsen op een 3-4 persoonskamer (mannen)
+- 1 plaats op een 3-4 persoonskamer (vrouwen)
+- 3 à 4 plaatsen voor tenten of mobilhome
+
 
 
 ## Betalingen

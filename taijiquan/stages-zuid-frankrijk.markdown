@@ -56,7 +56,7 @@ Taxi Agen - bestemming = ca. 45 km
 Taxi Toulouse - bestemming = ca. 110 km  
 
 **Let op :**
-Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 425 Euro). Maar: deelnemers hebben altijd voonang.
+Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 440 Euro). Maar: deelnemers hebben altijd voonang.
 
 Voor alle verdere informatie kan je mij altijd contacteren.
 ## Inschrijven en informatie

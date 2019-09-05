@@ -64,29 +64,28 @@ Voor alle verdere informatie kan je mij altijd contacteren.
 Inschrijven kan bij Eddy. Zie [wie ben ik](../wie-ben-ik.html) en [contact](../contact.html)<br />
 Of even doorgeven op de lessen zelf
 
-### Huidige vrije plaatsen
+### Huidige vrije plaatsen  
 
-#### Mei 1 van 16-23 mei 2020:
+#### Mei 1 van 16-23 mei 2020  
 
 - 3 plaatsen in 2-persoonskamer (vrouwen)
-- 2 plaatsen in 2-persoonskamer (mannen)
+- 1 plaats in 2-persoonskamer (mannen)
 - 3 plaatsen voor tenten of mobilhome
 
-#### Mei 2 van 23 -30 mei 2020
+#### Mei 2 van 23-30 mei 2020  
 
 - 1 plaats in 2-persoonskamer (vrouwen)
 - 3 plaatsen in 3-persoonskamer (vrouwen)
 - 3 plaatsen in 3-persoonskamer (mannen)
 - 3 plaatsen voor tenten of mobilhome
 
-#### Augustus 1 van 08 tot 15 augustus 2020
+#### Augustus 1 van 08-15 augustus 2020  
 
-- 1 plaats in 2-persoonskamer (vrouwen)
-- 2-plaatsen in 3-persoonskamer (vrouwen)
-- 2-plaatsen in 3-persoonskamer (mannen)
+- 2 plaatsen in 3-persoonskamer (vrouwen)
+- 1 plaats in 3-persoonskamer (mannen)
 - 3 plaatsen voor tenten of mobilhome
 
-#### Augustus 2 van 15 tot 22 augustus 2020
+#### Augustus 2 van 15-22 augustus 2020  
 
 - 2 plaatsen in 3-persoonskamer (mannen)
 - 3 plaatsen voor tenten of mobilhome
@@ -95,8 +94,8 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE 24 7310 0528 3138 -   
-BIC : KREDBEBB
+Europees rekeningnummer : BE 24 7310 0528 3138    
+BIC : KREDBEBB  
 
 Voorschot voor de stages: 250 Euro
 

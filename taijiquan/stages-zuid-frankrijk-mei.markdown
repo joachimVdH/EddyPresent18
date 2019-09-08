@@ -36,11 +36,11 @@ Bedoeling is om na drie seminaries een diploma uit te reiken.
 ## Praktisch
 
 2-persoonskamer : 780‚- Euro  
-3-4 persoonskamer : 700,- Euro  
-Tent of Mobilhome : 690,- Euro  
-Eén-persoonskamer : 1.200‚- Euro  
+3-4 persoonskamer : 720,- Euro  
+Tent of Mobilhome : 700,- Euro  
+Eén-persoonskamer : 1.260‚- Euro  
   
-Onze kokkin Goodje zal ontbijt, middagmaal en avondmaaltijd ter plaatse verzorgen, we eten vegetarisch. Het meeste werk zal door de keukenploeg worden gedaan, maar wat hulp is altijd welkom bij het afruimen en afwassen.  
+Onze kokkin zal ontbijt, middagmaal en avondmaaltijd ter plaatse verzorgen, we eten vegetarisch. Het meeste werk zal door de keukenploeg worden gedaan, maar wat hulp is altijd welkom bij het afruimen en afwassen.  
 Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit. Dranken en fruit is altijd ter beschikking. 
   
 **Vervoer:**  

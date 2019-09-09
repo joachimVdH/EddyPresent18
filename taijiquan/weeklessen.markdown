@@ -26,13 +26,13 @@ layout: page
 <tbody>
 <tr>
 	<td>18:45-20:15</td>
-	<td>Vergevorderd <br>door Eddy Present</td>
-	<td>Vergevorderd <br>door Eddy Present</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
 </tr>
 <tr>
 	<td>20:30-22:00</td>
 	<td>Beginners <br>door Karine Dutli</td>
-	<td>Vergevorderd <br>door Eddy Present</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ layout: page
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
-	<td>13:30-15:00<br>Vergevorderd <br>door Eddy Present</td>
+	<td>13:30-15:00<br>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
 </tr>
 <tr>
 	<td>&nbsp;</td>
@@ -68,16 +68,16 @@ layout: page
 	<td>15:15-16:30<br>Beginners<br>door Anne-Marie Van den Bossche</td>
 </tr> 
 <tr>
-	<td>18:45-20:15<br>Vergevorderd  <br>door Eddy Present</td>
+	<td>18:45-20:15<br>Vergevorderd  <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
 	<td>19:00-20:15<br>Beginners <br>door Nancy Bevers</td>
-	<td>18:45-20:15<br>Vergevorderd <br>door Eddy Present</td>
+	<td>18:45-20:15<br>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
 	<td>18:45-20:15<br>Halfgevorderd <br>door Anne-Marie Van den Bossche</td>
 </tr>
 <tr>
 	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
 	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
-	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present </td>
-	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present</td>
+	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
+	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
 </tr>
 </tbody>
 </table>

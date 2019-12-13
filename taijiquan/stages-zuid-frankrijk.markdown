@@ -68,27 +68,28 @@ Of even doorgeven op de lessen zelf
 
 #### Mei 1 van 16-23 mei 2020  
 
-- 3 plaatsen in 2-persoonskamer (vrouwen)
+- 1 plaatsen in 2-persoonskamer (vrouwen)
 - 1 plaats in 2-persoonskamer (mannen)
-- 3 plaatsen voor tenten of mobilhome
+- enkele plaatsen voor tenten 
 
 #### Mei 2 van 23-30 mei 2020  
 
 - 1 plaats in 2-persoonskamer (vrouwen)
-- 3 plaatsen in 3-persoonskamer (vrouwen)
-- 3 plaatsen in 3-persoonskamer (mannen)
-- 3 plaatsen voor tenten of mobilhome
+- 1 plaatsen in 3-persoonskamer (vrouwen)
+- 3 plaatsen in 3-persoonskamer 
+- enkele plaatsen voor tenten 
 
 #### Augustus 1 van 08-15 augustus 2020  
 
 - 2 plaatsen in 3-persoonskamer (vrouwen)
 - 1 plaats in 3-persoonskamer (mannen)
-- 3 plaatsen voor tenten of mobilhome
+- enkele plaatsen voor tenten 
 
 #### Augustus 2 van 15-22 augustus 2020  
 
+- 2 plaatsen in 2-persoonskamer
 - 2 plaatsen in 3-persoonskamer (mannen)
-- 3 plaatsen voor tenten of mobilhome
+- enkele plaatsen voor tenten 
 
 
 ## Betalingen

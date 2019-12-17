@@ -18,7 +18,7 @@ Aan alle studenten,
 We vragen dringend het volgende:  
  
 - Studenten die hun lidgeld nog niet betaald hebben om dat alsnog te doen. Zo kunnen we onze werking garanderen en onze lijsten vervolledigen. Je kan storten op BE05 9731 6901 6975 met vermelding van uw naam + betaling lidgeld (jaartal)  
-- Studenten die hun gegevens (naam, adres, tel.nr.) nog niet doorgegeven hebben, ook dat alsnog te doen. Wij zijn als VZW lid van een verzekering en wij moeten uw gegevens doorgeven aan de verzekering. Als je uw gegevens niet doorgeeft, ben je NIET verzekerd. Je hebt er dus alle belang bij om dat te doen.
+- Studenten die hun gegevens (naam, adres, tel.nr., geboortedatum) nog niet doorgegeven hebben, ook dat alsnog te doen. Wij zijn als VZW lid van een verzekering en wij moeten uw gegevens doorgeven aan de verzekering. Als je uw gegevens niet doorgeeft, ben je NIET verzekerd. Je hebt er dus alle belang bij om dat te doen.
 Uw gegevens kan je zenden aan karina@taiji-vereniging-grimbergen.be of geef ze door aan één van de lesgevers (lesgeefsters).  
    
 Het team van de Taiji-vereniging dankt je voor uw medewerking.  

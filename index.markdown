@@ -7,13 +7,57 @@ sharing: false
 footer: true
 ---
 
-#### Stages Hoepertingen  
+Het jaar 2019  
+Waarin verwondering en vertrouwen  
+En teleurstelling en onzekerheid  
+Zo dicht naast elkaar konden bestaan  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+Te vertrouwen op dat wat is  
+En ook moest loslaten  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+Dat wat eerder vanzelfsprekend was  
+Niet langer meer is  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+In het hier en nu te leven  
+En tevreden zijn met wat is  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+Om elke dag, positief of negatief  
+Een eigen blije draai te geven  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+Dankbaar te zijn  
+Voor die kostbare momenten  
+  
+Het jaar 2019  
+Waarin ik verder moest leren  
+Dat geluk niet te vinden is  
+In tijd, status of centen  
+  
+Het jaar 2019  
+Waartegen ik dank je wel zeg  
+Voor al die wijze lessen  
+Die ik heb mogen leren  
+  
+Een Zalige en Vredevolle Kerst en Gelukkig, Leerrijk 2020 voor iedereen!  
+  
+---
+
+### Stages Hoepertingen  
 
 Van zaterdag 14 maart 2020 (10u30) tot zondag 15 maart 2020 (17u) gaat het taiji weekend door in het Kasteel Mariagaarde in Hoepertingen olv Eddy Present.  
 
 ---
 
-Aan alle studenten,  
+### Aan alle studenten,  
   
 We vragen dringend het volgende:  
  
@@ -34,30 +78,6 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 * [Download Agenda Mechelen 2019-2020 - pdf - 46kb - 13 sep](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}  
 * [Download Agenda Grimbergen 2019-2020 - pdf - 47kb - 9 sep](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}  
 
----
-
-De Uitnodiging  
-  
-Het interesseert me niet wat je doet voor de kost.  
-Ik wil weten waar je naar verlangt en of je durft te dromen dat het verlangen van je hart vervuld wordt.  
-Het interesseert me niet hoe oud je bent.  
-Ik wil weten of je het risico durft te nemen jezelf voor gek te zetten voor je dromen, voor het avontuur van in leven zijn.  
-Ik wil weten of je de essentie van je eigen verdriet hebt aangeraakt, of open bent gegaan door de teleurstellingen van het leven, of dat je ineengeschrompeld en gesloten bent geraakt uit angst voor meer pijn.  
-Ik wil weten of je bij die pijn kunt verblijven zonder het te verbergen, of te verbloemen of het op te lossen.  
-Ik wil weten of je met vreugde kunt zijn, die van mij of van jou, of je je door extase kunt laten meevoeren tot in de toppen van je vingers en je tenen, zonder te waarschuwen dat we voorzichtig moeten zijn of realistisch, of dat we rekening moeten houden met de beperkingen van het mens-zijn.  
-Het interesseert me niet of het verhaal dat je vertelt waar is.  
-Ik wil weten of je trouw kunt blijven aan jezelf of je aantijgingen van verraad kunt verdragen zonder je eigen ziel te verraden.  
-Ik wil weten of je schoonheid kunt zien, zelfs als het niet elke dag mooi is, en of je vandaar uit kunt leven.  
-Ik wil weten of je met mislukkingen kunt leven, van jou of van mij, en toch aan de rand van het meer kunt staan en tegen het zilver van de volle maan kunt schreeuwen: ‘Ja!’
-Het interesseert me niet te weten waar je woont of hoeveel geld je hebt.  
-Ik wil weten of je na een nacht van verdriet en wanhoop, vermoeid en gebroken, weer op kunt staan en doen wat gedaan moet worden om de kinderen te voeden.  
-Het interesseert me niet wie je bent of hoe je hier bent gekomen.  
-Ik wil weten of je met mij in het centrum van het vuur kunt staan.  
-Het interesseert me niet wáár, wat of met wie je hebt gestudeerd.  
-Ik wil weten wat jou van binnenuit steun geeft wanneer al het andere wegvalt.  
-Ik wil weten of je alleen kunt zijn met jezelf, of je tijdens eenzame momenten echt van je eigen gezelschap geniet.  
-  
-Oriah Mountain Dreamer  
 
 ---
 Taiji artikel in Bodytalk magazine - [lees de pdf](/flyers/TaiChi_voor_lichaam_en_geest_bodytalk.PDF){:target="_blank"}

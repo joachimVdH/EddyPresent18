@@ -94,7 +94,7 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE 24 7310 0528 3138    
+Europees rekeningnummer : BE53 7310 4875 0353  
 BIC : KREDBEBB  
 
 Voorschot voor de stages: 250 Euro

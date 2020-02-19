@@ -4,9 +4,9 @@ layout: page
 ---
 ### Intensieve TaiJi-weekends 
 
-* Van zaterdag 16 november tot zondag 17 november 2019
 * Van zaterdag 14 maart tot zondag 15 maart 2020
-* Van zaterdag 28 november tot zondag 29 november 2020
+
+Laatste keer in Hoepertingen! Mariagaarde stopt ermee :-(  
 
 ### In het Kasteel Mariagaarde te Hoepertingen.
  
@@ -63,4 +63,4 @@ B: logeren in een éénpersoonskamer: € **304**,-
 Voorschot en saldo kan je betalen op rekeningnummer **BE88 9731 1656 5641** , bic ARSPBE22
 
 Voorschot van €100,- te betalen bij inschrijving;  
-Vermeld duidelijk je naam, **TAI JI NOV 2019** en/of **TAI JI MRT 2020** en/of **TAI JI NOV 2020** en de gewenste verblijfsformule (A of B).
+Vermeld duidelijk je naam, **TAI JI MRT 2020** en de gewenste verblijfsformule (A of B).

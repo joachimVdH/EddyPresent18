@@ -7,9 +7,8 @@ sharing: false
 footer: true
 ---
 
-# geen les in Grimbergen tot na paasvakantie
-
-Langs deze weg delen we jullie mee dat de gemeente Grimbergen de Charleroyhoeve sluit t.e.m. 12 april 2020.  
+# geen les tot na paasvakantie
+ 
 Dit is een maatregel die genomen wordt in het kader van ‘social distance’ om de verspreiding van het coronavirus te beperken en te vertragen.  
   
 De lessen zullen, zonder tegenbericht, herstarten vanaf 20 april 2020, na de paasvakantie.  

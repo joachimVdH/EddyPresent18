@@ -9,7 +9,7 @@ footer: true
 
 # Lock-down tot en met 3 mei
 
-Dus geen Taiji de volgende weken in Grimbergen of Mechelen.  
+Dus geen TaijiQuan les de volgende weken in Grimbergen of Mechelen.  
 Wanneer we terug zullen starten? Geen idee.  
 Als de lessen herstarten horen jullie het via deze weg.
 

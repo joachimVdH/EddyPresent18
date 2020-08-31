@@ -11,7 +11,7 @@ layout: page
   crossorigin=""></script>
 
 # Mechelen
-[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}  
+[Download Agenda Mechelen 2020-21 - pdf - 46kb](/flyers/Mechelen_2020-21.pdf){:target="_blank"}  
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
 
@@ -26,13 +26,13 @@ layout: page
 <tbody>
 <tr>
 	<td>18:45-20:15</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
+	<td>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 <tr>
 	<td>20:30-22:00</td>
-	<td>Beginners <br>door Karine Dutli</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
+	<td>Beginners <br>door Eddy Present &amp; Marc Hermans</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 </tbody>
 </table>
@@ -40,7 +40,7 @@ layout: page
 
 
 # Grimbergen
-[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}  
+[Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}  
 
@@ -48,36 +48,36 @@ layout: page
 <table>
 <thead>
 <tr>
+	<th>&nbsp;</th>
 	<th>maandag</th>
-	<th>dinsdag</th>
 	<th>woensdag</th>
 	<th>vrijdag</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+	<td>13:30-15:00</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
-	<td>&nbsp;</td>
-	<td>13:30-15:00<br>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
 </tr>
 <tr>
+	<td>15:15-16:30</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
-	<td>&nbsp;</td>
-	<td>15:15-16:30<br>Beginners<br>door Anne-Marie Van den Bossche</td>
+	<td>Beginners (1° deel)<br>door Anne-Marie Van den Bossche</td>
 </tr> 
 <tr>
-	<td>18:45-20:15<br>Vergevorderd  <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
-	<td>19:00-20:15<br>Beginners <br>door Nancy Bevers</td>
-	<td>18:45-20:15<br>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
-	<td>18:45-20:15<br>Halfgevorderd <br>door Anne-Marie Van den Bossche</td>
+	<td>18:45-20:15</td>
+	<td>Vergevorderd  <br>door Anne-Marie Van den Bossche</td>
+	<td>Vergevorderd <br>door Nancy Bevers</td>
+	<td>Halfgevorderd (2° deel)<br>door Anne-Marie Van den Bossche</td>
 </tr>
 <tr>
-	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
-	<td> 20:30-22:00<br>Gevorderd <br>door Anne-Marie Van den Bossche </td>
-	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Karine Dutli</td>
-	<td> 20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
+	<td>20:30-22:00</td>
+	<td>Gevorderden (3° deel)<br>door Anne-Marie Van den Bossche </td>
+	<td>Beginners (1° deel)<br>door Nancy Bevers</td>
+	<td>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
 </tr>
 </tbody>
 </table>

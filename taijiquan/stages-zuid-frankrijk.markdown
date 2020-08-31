@@ -6,11 +6,11 @@ title: Stages Zuid-Frankrijk
 
 ## Stages in Saint-Orens-Pauy-Petit  
 
-*  Mei 1: van 16 tot 23 mei 2020
-*  Mei 2: van 23 tot 30 mei 2020
+*  ~~Mei 1: van 16 tot 23 mei 2020~~
+*  ~~Mei 2: van 23 tot 30 mei 2020~~
 
-*  Aug 1: van 8 tot 15 augustus 2020
-*  Aug 2: van 15 tot 22 augustus 2020
+*  ~~Aug 1: van 8 tot 15 augustus 2020~~
+*  ~~Aug 2: van 15 tot 22 augustus 2020~~
   
   
 ## Waar  

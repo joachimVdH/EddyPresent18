@@ -88,7 +88,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 ## Lesgelden (BTW inbegrepen)
 * per les van 1,5 uur = 13 &euro;
 * per 10 beurtenkaart = 120 &euro; 
-* 10 beurtenkaart word aangeschaft via overschrijving naar BE05 9731 6901 6975 van de TaiJi-vereniging Grimbergen met vermelding “naam + kaartnummer”
+* 10 beurtenkaart word aangeschaft via overschrijving naar BE88 9733 8425 6541 van de TaiJi-vereniging Grimbergen met vermelding “naam + kaartnummer”
 
 
 Deze kaart is één kalenderjaar geldig

@@ -4,21 +4,30 @@ title: Stages Zuid-Frankrijk
 ---
 ### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
-## Stages in Saint-Orens-Pauy-Petit  
+## Stages in Le Hohwald, Frankrijk  
 
-*  ~~Mei 1: van 16 tot 23 mei 2020~~
-*  ~~Mei 2: van 23 tot 30 mei 2020~~
-
-*  ~~Aug 1: van 8 tot 15 augustus 2020~~
-*  ~~Aug 2: van 15 tot 22 augustus 2020~~
-  
+*  ~~Mei: van 22 tot 29 mei 2021~~
+*  ~~Aug: van 14 tot 21 augustus 2021~~
   
 ## Waar  
 
-Een prachtig domein in Saint-Orens-Pouy-Petit nabij Condom (onder de stad Agen).  
-Alles is voorzien: 7 twee-persoonskamers (aparte bedden) met ieder een eigen badkamer en toilet, 
-twee 3- of 4-persoonskamers met gezamenlijke badkamer en toilet. Elke kamer heeft airco en verwarming. Al de kamers zijn zeer ruim en mooi ingericht; beter dan in een hotel! Alles is smaakvol ingericht. Er is een zwembad en verschillende zithoeken en terrasjes. Ook wif1 is voorhanden. Ruime keuken en mogelijkheid tot buiten eten. Ook een mobilhome mag (plaats voor één) en een twee- tot drietal tenten mag ook. Voor deze mensen is er douche en toilet voorzien in het poolhouse. Kortom, een echte verbetering qua comfort. Alle moderne faciliteiten zijn aanwezig.De foto's spreken voor zich.Vlakbĳ is ook een bos waar je kan wandelen en er zijn gelegenheden in Condom en Saint-Puy, op zo'n 10 km, waar je iets kunt drinken en eten op de vrije namiddag. Oefenen doen we onder de eiken en er is een buitenplatform waarop we kunnen oefenen en mediteren.We hebben volledige privacy. 
-
+Het centrum ligt in Hohwald, een plaatsje in de Elzas op de rand van de Vogezen in Frankijk.
+Het ligt nog in de rijke wijnstreek van de Elzas, de Vogezen zijn wat armoediger.
+Het is ongeveer 475 km van Mechelen af. Met de auto rij je ca. 5 uurtjes.  
+Dus geen overnachtingen meer en géén péage te betalen tot daar!  
+  
+Er is ook een verbinding met de TGV:  
+Ofwel naar Strassbourg, dan is het nog 45 km met de taxi (vergelijkbaar met Agen – Saint-Orens).  
+Ofwel, een paar keer per dag stopt de TGV ook verder in Sélestat, dan is het nog 30 minuten met de taxi.  
+  
+Het ligt boven op een berg, op zo’n 950m hoogte, midden in de natuur met vooral wilde bossen.  
+Het is op het einde van de weg naar boven.  
+Dus je hoort daar … niets … geen auto’s, geen vliegtuigen, geen brommers, alleen maar stilte!  
+Vanuit het centrum hebben we zicht op het landschap met in de verte de Duitse Alpen.  
+De lucht is zeer zuiver!  
+  
+Vele lange wandelingen zijn hier mogelijk vanuit het centrum, een paar leuke dorpjes in de buurt,
+een waterval waar je heerlijk kan vertoeven.  
   
 ## Programma
 
@@ -34,26 +43,26 @@ Bedoeling is om na drie seminaries een diploma uit te reiken.
 **Je kan uiteraard deelnemen aan meerdere stages.**
 ## Praktisch
 
-2-persoonskamer : 780‚- Euro  
+<!-- 2-persoonskamer : 780‚- Euro  
 3-4 persoonskamer : 720,- Euro  
 Tent of Mobilhome : 700,- Euro  
-Eén-persoonskamer : 1.260‚- Euro  
+Eén-persoonskamer : 1.260‚- Euro   -->
   
-Onze kokkin zal ontbijt, middagmaal en avondmaaltijd ter plaatse verzorgen, we eten vegetarisch. Het meeste werk zal door de keukenploeg worden gedaan, maar wat hulp is altijd welkom bij het afruimen en afwassen.  
-Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit. Dranken en fruit is altijd ter beschikking. 
+<!-- Onze kokkin zal ontbijt, middagmaal en avondmaaltijd ter plaatse verzorgen, we eten vegetarisch. Het meeste werk zal door de keukenploeg worden gedaan, maar wat hulp is altijd welkom bij het afruimen en afwassen.  
+Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit. Dranken en fruit is altijd ter beschikking.  -->
   
-**Vervoer:**  
+<!-- **Vervoer:**  
 Via TGV, Ryanair, eigen wagen of carpooling.  
 Laat dus ook weten hoe je wenst te reizen.  
-Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers kunnen afspreken met elkaar. Het reizen regelen jullie zelf.  
+Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers kunnen afspreken met elkaar. Het reizen regelen jullie zelf.   -->
 
-**Routebeschrijving:**  
+<!-- **Routebeschrijving:**  
 Het GPS-adres is: "Lieu dit Le Tuco" in Saint-Orens-Pouy-Petit  
 Rij tot in Agen en neem de D931 tot in Condom. Neem dan de D654 richting Saint-Puy. Rij ca. 7 km dan kom je voorbij Bérault, na 1,2 km het tweede baantje rechts. Daar sla je in en dan direct rechts sta je aan de poort van het domein.  
 Voor degenen die met de trein of vliegtuig komen: je kan vliegen naar de luchthaven van Agen of Toulouse. TGV tot in Toulouse en dan overstappen naar de trein naar Agen ofwel met de taxi naar de bestemming.  
 Agen is veel dichterbij qua taxi:  
 Taxi Agen - bestemming = ca. 45 km  
-Taxi Toulouse - bestemming = ca. 110 km  
+Taxi Toulouse - bestemming = ca. 110 km   -->
 
 **Let op :**
 Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 440 Euro). Maar: deelnemers hebben altijd voonang.
@@ -64,34 +73,6 @@ Voor alle verdere informatie kan je mij altijd contacteren.
 Inschrijven kan bij Eddy. Zie [wie ben ik](../wie-ben-ik.html) en [contact](../contact.html)<br />
 Of even doorgeven op de lessen zelf
 
-### Huidige vrije plaatsen  
-
-#### Mei 1 van 16-23 mei 2020  
-
-- 1 plaatsen in 2-persoonskamer (vrouwen)
-- 1 plaats in 2-persoonskamer (mannen)
-- enkele plaatsen voor tenten 
-
-#### Mei 2 van 23-30 mei 2020  
-
-- 1 plaats in 2-persoonskamer (vrouwen)
-- 1 plaatsen in 3-persoonskamer (vrouwen)
-- 3 plaatsen in 3-persoonskamer 
-- enkele plaatsen voor tenten 
-
-#### Augustus 1 van 08-15 augustus 2020  
-
-- 2 plaatsen in 3-persoonskamer (vrouwen)
-- 1 plaats in 3-persoonskamer (mannen)
-- enkele plaatsen voor tenten 
-
-#### Augustus 2 van 15-22 augustus 2020  
-
-- 2 plaatsen in 2-persoonskamer
-- 2 plaatsen in 3-persoonskamer (mannen)
-- enkele plaatsen voor tenten 
-
-
 ## Betalingen
 
 Bedragen te storten op   
@@ -100,8 +81,8 @@ BIC : KREDBEBB
 
 Voorschot voor de stages: 250 Euro
 
-* Voorschot stages Mei 2020 &ndash; te storten voor 31 december 2019, resterend bedrag voor 15 maart.  
-* Voorschot stages Augustus 2020 &ndash; te storten voor 30 maart 2020, resterend bedrag voor 15 juni.    
+* Voorschot stages Mei 2021 &ndash; te storten voor 31 december 2020, resterend bedrag voor 15 maart.  
+* Voorschot stages Augustus 2021 &ndash; te storten voor 30 maart 2021, resterend bedrag voor 15 juni.    
 
 
 **Denk eraan:  

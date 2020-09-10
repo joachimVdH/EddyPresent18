@@ -6,8 +6,8 @@ title: Stages Zuid-Frankrijk
 
 ## Stages in Le Hohwald, Frankrijk  
 
-*  ~~Mei: van 22 tot 29 mei 2021~~
-*  ~~Aug: van 14 tot 21 augustus 2021~~
+*  Mei: van 22 tot 29 mei 2021
+*  Aug: van 14 tot 21 augustus 2021
   
 ## Waar  
 

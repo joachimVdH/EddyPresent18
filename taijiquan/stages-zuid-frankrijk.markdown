@@ -6,6 +6,12 @@ title: Stages Zuid-Frankrijk
 
 ## Stages in Le Hohwald, Frankrijk  
 
+De seminaries van mei en augustus 2021 zijn **volgeboekt**!  
+Eventuele verdere inschrijvingen zullen op de reservelijst komen.  
+Bij eventuele annulatie van een deelnemer, zal iemand die plaats kunnen innemen.  
+Met dien verstande dat wie eerst op de reservelijst staat, eerst zal kunnen deelnemen.  
+Al naar gelang dat het dame of een man is die geannuleerd heeft.  
+  
 *  Mei: van 22 tot 29 mei 2021
 *  Aug: van 14 tot 21 augustus 2021
   

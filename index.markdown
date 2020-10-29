@@ -12,7 +12,6 @@ footer: true
 Wegens coronamaatregelen tot nader bericht geen Taiji les meer!  
 Georganiseerde sporten zijn verboden boven de 12 jaar.  
 Zodra we terug groen licht krijgen, brengen we jullie op de hoogte.  
-De maatregelen gaan vanavond al in i.p.v. vrijdag 28 oktober om 18u.  
   
 Voor de geïnteresseerden:  
 [De link naar deel 1 van de vorm zoals hij deze zomer is ingesproken en gefilmd.  

@@ -9,10 +9,23 @@ footer: true
 
 # Beste Taijiers  
   
-In september starten de lessen in Grimbergen op maandag 7 september en in Mechelen op dinsdag 15 september 2020.  
+Wegens coronamaatregelen tot nader bericht geen Taiji les meer!  
+Georganiseerde sporten zijn verboden boven de 12 jaar.  
+Zodra we terug groen licht krijgen, brengen we jullie op de hoogte.  
+De maatregelen gaan vanavond al in i.p.v. vrijdag 28 oktober om 18u.  
   
-Geen inschrijving nodig voor de maand september.  
+Voor de geïnteresseerden:  
+[De link naar deel 1 van de vorm zoals hij deze zomer is ingesproken en gefilmd.  
+Je wordt begeleid in Wuji en na 5 minuten start de vorm.](https://www.youtube.com/watch?v=MIsbVKrcaWs)  
   
+Je kan de hele vorm (3 delen) ook bekijken op [https://taiji-vereniging-grimbergen.be/vorm](https://taiji-vereniging-grimbergen.be/vorm)  
+  
+Blijf gezond & Taiji !  
+  
+Het Taiji-team  
+  
+---  
+
 We volgen allen onderstaande regels:  
 
 * Bij aankomst mondmaskers verplicht tot de start van de les.  

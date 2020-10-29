@@ -16,9 +16,9 @@ De maatregelen gaan vanavond al in i.p.v. vrijdag 28 oktober om 18u.
   
 Voor de geïnteresseerden:  
 [De link naar deel 1 van de vorm zoals hij deze zomer is ingesproken en gefilmd.  
-Je wordt begeleid in Wuji en na 5 minuten start de vorm.](https://www.youtube.com/watch?v=MIsbVKrcaWs)  
+Je wordt begeleid in Wuji en na 5 minuten start de vorm.](https://www.youtube.com/watch?v=MIsbVKrcaWs){:target="_blank"}  
   
-Je kan de hele vorm (3 delen) ook bekijken op [https://taiji-vereniging-grimbergen.be/vorm](https://taiji-vereniging-grimbergen.be/vorm)  
+Je kan de hele vorm (3 delen) ook hier bekijken : [https://eddypresent.be/taijiquan/vorm.html](https://eddypresent.be/taijiquan/vorm.html)  
   
 Blijf gezond & Taiji !  
   

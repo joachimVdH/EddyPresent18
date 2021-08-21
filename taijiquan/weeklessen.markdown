@@ -11,7 +11,7 @@ layout: page
   crossorigin=""></script>
 
 # Mechelen
-[Download Agenda Mechelen 2020-21 - pdf - 46kb](/flyers/Mechelen_2020-21.pdf){:target="_blank"}  
+<!-- [Download Agenda Mechelen 2020-21 - pdf - 46kb](/flyers/Mechelen_2020-21.pdf){:target="_blank"}   -->
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
 
@@ -26,12 +26,12 @@ layout: page
 <tbody>
 <tr>
 	<td>18:45-20:15</td>
+	<td>Halfgevorderden <br>door Eddy Present &amp; Marc Hermans</td>
 	<td>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 <tr>
 	<td>20:30-22:00</td>
-	<td>Beginners <br>door Eddy Present &amp; Marc Hermans</td>
+	<td>Beginners <br>door Eddy Present &amp; Marc Hermans &amp; Nancy Bevers</td>
 	<td>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 </tbody>
@@ -40,9 +40,9 @@ layout: page
 
 
 # Grimbergen
-[Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
+<!-- [Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
 
-[Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}  
+[Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}   -->
 
 
 <table>
@@ -86,9 +86,9 @@ layout: page
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.
 
 ## Lesgelden (BTW inbegrepen)
-* per les van 1,5 uur = 13 &euro;
-* per 10 beurtenkaart = 120 &euro; 
-* 10 beurtenkaart word aangeschaft via overschrijving naar BE88 9733 8425 6541 van de TaiJi-vereniging Grimbergen met vermelding “naam + kaartnummer”
+* per les van 1,5 uur = 15 &euro;
+* per 10 beurtenkaart = 135 &euro; 
+* 10 beurtenkaart word aangeschaft tijdens de les.
 
 
 Deze kaart is één kalenderjaar geldig
@@ -108,8 +108,8 @@ Vraag informatie!
 		accessToken: 'pk.eyJ1Ijoiam9hY2hpbXZkaCIsImEiOiJjanR4MDh5b2oyNm5zNDRsbGF6cTM5bzh1In0.OpFnYagI-skcvKS3OxC65w'
 	}).addTo(mymap);
 
-	var markerGrimbergen = L.marker([50.93568, 4.37484]).addTo(mymap);
-	markerGrimbergen.bindPopup("Charleroyhoeve, Lierbaan, Grimbergen").openPopup();
+	// var markerGrimbergen = L.marker([50.93568, 4.37484]).addTo(mymap);
+	//markerGrimbergen.bindPopup("Charleroyhoeve, Lierbaan, Grimbergen").openPopup(); 
 
 	var markerMechelen = L.marker([51.03067, 4.45947]).addTo(mymap);
 	markerMechelen.bindPopup("Basisschool De Spreeuwen, Battelsesteenweg 259, Mechelen").openPopup();

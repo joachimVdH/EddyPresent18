@@ -70,7 +70,7 @@ De prijzen zijn als volgt:
 - Tent of mobile home 490,- Euro per persoon
 
 **Let op :**
-Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 440 Euro). Maar: deelnemers hebben altijd voonang.
+Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 340 Euro). Maar: deelnemers hebben altijd voonang.
 
 Voor alle verdere informatie kan je mij altijd contacteren.
 ## Inschrijven en informatie
@@ -81,7 +81,7 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE60 7360 7560 2470  
+Europees rekeningnummer : BE60 7360 7560 2470
 BIC : KREDBEBB  
 
 Voorschot voor de stages: 200 Euro

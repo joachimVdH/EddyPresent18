@@ -23,9 +23,9 @@ twee 3- of 4-persoonskamers met gezamenlijke badkamer en toilet. Elke kamer heef
   
 ## Programma
 
-Jullie worden op zaterdag vanaf 14 h 00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starîen op zondag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.  
-De laatste dag stoppen we om 17 h 00 zodat we het seminarie feestelijk afsluiten.  
-Op zaterdag vertrekt iedereen 0m 10 h 00 weer naar huis.  
+Jullie worden op zaterdag vanaf 14:00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starîen op zondag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.  
+De laatste dag stoppen we om 17:00 zodat we het seminarie feestelijk afsluiten.  
+Op zaterdag vertrekt iedereen 0m 10:00 weer naar huis.  
 
 Er wordt een **masterclass** georganiseerd die voor **iedereen** openstaat.  
 Er wordt nadruk gelegd op hoe de bewegingen en houdingen precies aanvoelen. Er wordt veel aandacht besteed aan het energetische aspect. Deelnemers aan dit seminarie krijgen dan een getuigschrift.  
@@ -69,7 +69,7 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE 24 7310 0528 3138 -   
+Europees rekeningnummer : ~~BE 24 7310 0528 3138~~ -   
 BIC : KREDBEBB
 
 Voorschot voor de stages: 250 Euro

@@ -13,7 +13,7 @@ Met plezier kan ik jullie vertellen dat de lessen in Mechelen op de Spreeuwensch
 De eerste les zal op **dinsdag, 14 september** zijn en de **donderdag, 16 september**.  
 Er zal afwisselend les gegeven worden door mij en Marc Hermans (de ene week ik de andere Marc)  
 Voor de beginnerslessen op dinsdag zal ik ook in het begin mee opstarten, maar dan laat ik die lessen over aan Marc en hoogst vermoedelijk Nancy Bevers.  
-Op dinsdag van 18 h 45 tot 20 h 15 zullen er halfgevorderden zijn en van 20 h 30 tot 22 h 00 beginners.  
+Op dinsdag van 18:45 tot 20:15 zullen er halfgevorderden zijn en van 20:30 tot 22:00 beginners.  
 Op donderdag zal de eerste les gevorderden zijn en de tweede les vergevorderden.  
   
 **Voor de mensen die les volgen in Grimbergen: wij zijn nog naarstig op zoek naar een geschikte zaal. Vermits de VZW niet meer bestaat, kunnen we de zaal in de Charleroyhoeve niet meer aan een degelijke prijs huren. Maar we zoeken verder. Willen jullie toch les volgen dan kan je dat in Mechelen doen tot er een zaal is gevonden hebben in jullie regio.** 

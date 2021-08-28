@@ -3,17 +3,25 @@ title: Weeklessen
 layout: page
 ---
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
   crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
-  crossorigin=""></script>
+  crossorigin=""></script> -->
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+  crossorigin=""></script> -->
 
 # Mechelen
-<!-- [Download Agenda Mechelen 2020-21 - pdf - 46kb](/flyers/Mechelen_2020-21.pdf){:target="_blank"}   -->
 
-[Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
+[Download Agenda Mechelen 2021-22 - pdf - 32kb - 28 aug](/flyers/Mechelen_2021-22.pdf){:target="_blank"}  
+
+[Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
 <table>
 <thead>
@@ -38,11 +46,11 @@ layout: page
 </table>
 
 
-
+<!-- 
 # Grimbergen
-<!-- [Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
+[Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
 
-[Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}   -->
+[Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}  
 
 
 <table>
@@ -81,9 +89,10 @@ layout: page
 </tr>
 </tbody>
 </table>
+ -->
 
-
-Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.
+Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen.  
+Iets om te drinken meebrengen is altijd verstandig.
 
 ## Lesgelden (BTW inbegrepen)
 * per les van 1,5 uur = 15 &euro;
@@ -96,7 +105,7 @@ Deze kaart is één kalenderjaar geldig
 Een factuur of een bewijs kan verkregen worden.  
 Vraag informatie!
 
-
+<!-- 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 <script>
 	var mymap = L.map('mapid').setView([50.9889,4.3807], 11);
@@ -113,4 +122,4 @@ Vraag informatie!
 
 	var markerMechelen = L.marker([51.03067, 4.45947]).addTo(mymap);
 	markerMechelen.bindPopup("Basisschool De Spreeuwen, Battelsesteenweg 259, Mechelen").openPopup();
-</script>
+</script> -->

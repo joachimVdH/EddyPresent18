@@ -2,19 +2,32 @@
 layout: page
 title: Stages Zuid-Frankrijk 
 ---
-### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
+### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur?  
 
 ## Stages in Le Hohwald, Frankrijk  
 
-De seminaries van mei en augustus 2021 zijn **volgeboekt**!  
+<!-- De seminaries van mei en augustus 2021 zijn **volgeboekt**!  
 Eventuele verdere inschrijvingen zullen op de reservelijst komen.  
 Bij eventuele annulatie van een deelnemer, zal iemand die plaats kunnen innemen.  
 Met dien verstande dat wie eerst op de reservelijst staat, eerst zal kunnen deelnemen.  
-Al naar gelang dat het dame of een man is die geannuleerd heeft.  
+Al naar gelang dat het dame of een man is die geannuleerd heeft.   -->
   
-*  Mei: van 22 tot 29 mei 2021
-*  Aug: van 14 tot 21 augustus 2021
+*  Juni: van 4 tot 11 juni 2022
+*  Aug: van 13 tot 20 augustus 2022
   
+In juni 2022 zijn er nog volgende plaatsen vrij:  
+
+- 1 plaats voor een man op een 2-persoonskamer  
+- 2 plaatsen voor dames op een 3-persoonskamer  
+- Nog één 2-persoonskamer vrij voor koppel, dames of mannen  
+- Plaatsen voor tenten en/of mobilehome  
+
+Voor augustus 2022 zijn er nog volgende plaatsen vrij:  
+
+- 1 plaats voor een dame op een 3-persoonskamer  
+- Plaatsen voor tenten en/of mobilehome  
+
+
 ## Waar  
 
 Het centrum ligt in Hohwald, een plaatsje in de Elzas op de rand van de Vogezen in Frankijk.
@@ -37,9 +50,9 @@ een waterval waar je heerlijk kan vertoeven.
   
 ## Programma
 
-Jullie worden op zaterdag vanaf 14 h 00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starîen op zondag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.  
-De laatste dag stoppen we om 17 h 00 zodat we het seminarie feestelijk afsluiten.  
-Op zaterdag vertrekt iedereen 0m 10 h 00 weer naar huis.  
+Jullie worden op zaterdag vanaf 14:00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starîen op zondag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.  
+De laatste dag stoppen we om 17:00 zodat we het seminarie feestelijk afsluiten.  
+Op zaterdag vertrekt iedereen om 10:00 weer naar huis.  
 
 Er wordt een **masterclass** georganiseerd die voor **iedereen** openstaat.  
 Er wordt nadruk gelegd op hoe de bewegingen en houdingen precies aanvoelen. Er wordt veel aandacht besteed aan het energetische aspect. Deelnemers aan dit seminarie krijgen dan een getuigschrift.  
@@ -49,26 +62,12 @@ Bedoeling is om na drie seminaries een diploma uit te reiken.
 **Je kan uiteraard deelnemen aan meerdere stages.**
 ## Praktisch
 
-<!-- 2-persoonskamer : 780‚- Euro  
-3-4 persoonskamer : 720,- Euro  
-Tent of Mobilhome : 700,- Euro  
-Eén-persoonskamer : 1.260‚- Euro   -->
-  
-<!-- Onze kokkin zal ontbijt, middagmaal en avondmaaltijd ter plaatse verzorgen, we eten vegetarisch. Het meeste werk zal door de keukenploeg worden gedaan, maar wat hulp is altijd welkom bij het afruimen en afwassen.  
-Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit. Dranken en fruit is altijd ter beschikking.  -->
-  
-<!-- **Vervoer:**  
-Via TGV, Ryanair, eigen wagen of carpooling.  
-Laat dus ook weten hoe je wenst te reizen.  
-Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers kunnen afspreken met elkaar. Het reizen regelen jullie zelf.   -->
+De prijzen zijn als volgt:
 
-<!-- **Routebeschrijving:**  
-Het GPS-adres is: "Lieu dit Le Tuco" in Saint-Orens-Pouy-Petit  
-Rij tot in Agen en neem de D931 tot in Condom. Neem dan de D654 richting Saint-Puy. Rij ca. 7 km dan kom je voorbij Bérault, na 1,2 km het tweede baantje rechts. Daar sla je in en dan direct rechts sta je aan de poort van het domein.  
-Voor degenen die met de trein of vliegtuig komen: je kan vliegen naar de luchthaven van Agen of Toulouse. TGV tot in Toulouse en dan overstappen naar de trein naar Agen ofwel met de taxi naar de bestemming.  
-Agen is veel dichterbij qua taxi:  
-Taxi Agen - bestemming = ca. 45 km  
-Taxi Toulouse - bestemming = ca. 110 km   -->
+- 1-persoonskamer 570,- Euro per persoon
+- 2-persoonskamer 540,- Euro per persoon
+- 3-persoonskamer 510,- Euro per persoon 
+- Tent of mobile home 490,- Euro per persoon
 
 **Let op :**
 Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 440 Euro). Maar: deelnemers hebben altijd voonang.
@@ -82,13 +81,13 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE53 7310 4875 0353  
+Europees rekeningnummer : BE60 7360 7560 2470  
 BIC : KREDBEBB  
 
-Voorschot voor de stages: 250 Euro
+Voorschot voor de stages: 200 Euro
 
-* Voorschot stages Mei 2021 &ndash; te storten voor 31 december 2020, resterend bedrag voor 15 maart.  
-* Voorschot stages Augustus 2021 &ndash; te storten voor 30 maart 2021, resterend bedrag voor 15 juni.    
+* Voorschot stages Juni 2022 &ndash; te storten voor 28 februari 2022, resterend bedrag voor 30 April.  
+* Voorschot stages Augustus 2021 &ndash; te storten voor 31 maart 2022, resterend bedrag voor 15 Juni.    
 
 
 **Denk eraan:  

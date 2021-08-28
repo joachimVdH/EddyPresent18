@@ -70,7 +70,7 @@ De prijzen zijn als volgt:
 - Tent of mobile home 490,- Euro per persoon
 
 **Let op :**
-Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 340 Euro). Maar: deelnemers hebben altijd voonang.
+Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 340 Euro). Maar deelnemers hebben altijd voorrang.
 
 Voor alle verdere informatie kan je mij altijd contacteren.
 ## Inschrijven en informatie

@@ -18,13 +18,11 @@ Al naar gelang dat het dame of een man is die geannuleerd heeft.   -->
 In juni 2022 zijn er nog volgende plaatsen vrij:  
 
 - 1 plaats voor een man op een 2-persoonskamer  
-- 2 plaatsen voor dames op een 3-persoonskamer  
-- Nog één 2-persoonskamer vrij voor koppel, dames of mannen  
 - Plaatsen voor tenten en/of mobilehome  
 
 Voor augustus 2022 zijn er nog volgende plaatsen vrij:  
 
-- 1 plaats voor een dame op een 3-persoonskamer  
+- 2 plaatsen voor dames op een 3-persoonskamer  
 - Plaatsen voor tenten en/of mobilehome  
 
 

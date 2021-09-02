@@ -46,50 +46,33 @@ layout: page
 </table>
 
 
-<!-- 
-# Grimbergen
-[Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}  
 
-[Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}  
+# Grimbergen
+<!-- [Download Agenda Grimbergen 2020-21 - pdf - 46kb](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}   -->
+
+[Basisschool De Regenboog, Speelbroek, 38 te 1850 Grimbergen](https://goo.gl/maps/j2Zjc7aH1UCb7dHaA){:target="_blank"}  
 
 
 <table>
 <thead>
 <tr>
 	<th>&nbsp;</th>
-	<th>maandag</th>
-	<th>woensdag</th>
 	<th>vrijdag</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>13:30-15:00</td>
-	<td>&nbsp;</td>
-	<td>&nbsp;</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
-</tr>
-<tr>
-	<td>15:15-16:30</td>
-	<td>&nbsp;</td>
-	<td>&nbsp;</td>
-	<td>Beginners (1° deel)<br>door Anne-Marie Van den Bossche</td>
-</tr> 
-<tr>
 	<td>18:45-20:15</td>
-	<td>Vergevorderd  <br>door Anne-Marie Van den Bossche</td>
-	<td>Vergevorderd <br>door Nancy Bevers</td>
-	<td>Halfgevorderd (2° deel)<br>door Anne-Marie Van den Bossche</td>
+	<td>Beginners en halfgevorderden</td>
 </tr>
 <tr>
 	<td>20:30-22:00</td>
-	<td>Gevorderden (3° deel)<br>door Anne-Marie Van den Bossche </td>
-	<td>Beginners (1° deel)<br>door Nancy Bevers</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Anne-Marie Van den Bossche</td>
+	<td>Gevorderden en vergevorderden</td>
 </tr>
 </tbody>
 </table>
- -->
+
+# Algemeen
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen.  
 Iets om te drinken meebrengen is altijd verstandig.

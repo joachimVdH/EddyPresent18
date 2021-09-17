@@ -35,9 +35,8 @@ Deze cursus wordt gegeven op vraag van particulieren, bedrijven en scholen.
 Voor inlichtingen: 
 
 Eddy Present  
-Verschuerenlaan, 7  
-2811 Leest  
-Telefoon: <a href="tel:+3215343563" itemprop="telephone">015/34.35.63</a>  
+Parochiestraat 34  
+2240 Zandhoven  
 Mobiel: <a href="tel:+32486545847" itemprop="telephone">0486/54.58.47</a>  
 Email: <script type="text/javascript" language="javascript"><!-- 
 { coded = "iVVd.0giviC1@1ieiCi1.Pi" ;   key = "g6Wws8oQIlDUCb4VzX7pBRZYuTxvAqtyeJGmPSjr5k0NM239OEFnL1diHKchfa" ;  shift=coded.length ; link="" ; for (i=0; i<coded.length; i++) { if (key.indexOf(coded.charAt(i))==-1) { ltr = coded.charAt(i); link += (ltr); } else { ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length ; link += (key.charAt(ltr)) ;  } } document.write(" <a href='mailto:"+link+"'>"+link+"</a> of via <a href='/contact.html'>het contact-formulier</a> ") } //--> </script> <noscript> via <a href="/contact.html">het contact-formulier</a></noscript> 

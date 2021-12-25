@@ -30,55 +30,58 @@ footer: true
     }
     // --> </script>
 
-Hallo iedereen,  
+Eén minuut  
   
-We hebben een zaal in Grimbergen gevonden, een grote zaal vol licht!
+Zelfs de eeuwigheid kan het verlies van één minuut niet vergoeden.  
   
-Het adres is: Basisschool De Regenboog, Speelbroek, 38 te 1850 Grimbergen
+Jouw voeten lopen vanzelf naar de dood toe, zorg er dus voor de je intussen elke dag in het NU leeft.  
+Verlies geen minuut!  
   
-Er worden twee lessen voorzien op vrijdag:  
+Want elke ochtend word je opnieuw geboren, maar veel mensen staan op en denken gelijk aan de erfenis van gisteren.  
+Verlies geen minuut!  
   
-* Van 18 h 45 tot 20 h 15: beginners en halfgevorderden  
-* Van 20 h 30 tot 22 h 00: gevorderden en vergevorderden  
+Want je verkrijgt niets in de wereld als je niet eerst moeite ervoor doet.  
+Verlies geen minuut!  
   
-De lessen starten vanaf 17 september 2021.  
+Want we zijn allemaal radertjes in een grote klok, geen enkel radertje kan gemist worden, anders staat de klok stil. Jij draait mee als een onmisbaar radertje.  
+Verlies geen minuut!  
   
-Aan alle studenten, gelieve uw naam door te geven en naar welke les je wilt komen, dan kunnen Nancy en ik de lijsten samenstellen.  
+En onthoudt volgende waarheden:  
   
-Als je mensen kent die met Taiji willen beginnen, geef ze dan ons mail adres, zowel van Nancy en van mij, wij doen de rest;  
+Reïncarnatie is niét het wonder, maar het NU, hier op deze Aarde.  
+Twijfel aan het NU is angst voor het onbekende.  
+Wie zich verheft steunt altijd op deze Aarde in het NU.  
+Aanvaard het leven als leven: niet te vatten, vrij, spontaan en grenzeloos,  
+Dat noemen we loslaten.  
   
-Mail ons: <a href="javascript:linkTo_UnCryptMailto('nbjmup;feez/qsftfouAufmfofu/cf<obodzcfwfstAhnbjm/dpn');">eddy [dot] present [at] telenet [dot] be &amp; nancybevers [at] gmail [dot] com</a>  
+En denk eraan: veel fouten hebben is geen schande.  
+Wat me zou verontrusten is dat je geen fout zou vinden om te verbeteren! Geloof in jezelf en maak nergens een heilige koe van.  
+Je behoort alleen in jezelf te geloven en nergens anders in  
+En als je er niet in slaagt om waarheid in jezelf te vinden,  
+Waar hoop je die dan wel te vinden?  
   
-Tot  in Grimbergen,  
-Eddy en Nancy  
-
----
-
-Met plezier kan ik jullie vertellen dat de lessen in Mechelen op de Spreeuwenschool terug aanvangen!  
-De eerste les zal op **dinsdag, 14 september** zijn en de **donderdag, 16 september**.  
-Er zal afwisselend les gegeven worden door mij en Marc Hermans (de ene week ik de andere Marc)  
-Voor de beginnerslessen op dinsdag zal ik ook in het begin mee opstarten, maar dan laat ik die lessen over aan Marc en hoogst vermoedelijk Nancy Bevers.  
-Op dinsdag van 18:45 tot 20:15 zullen er halfgevorderden zijn en van 20:30 tot 22:00 beginners.  
-Op donderdag zal de eerste les gevorderden zijn en de tweede les vergevorderden.  
-
-Let wel: de prijzen van de lessen zijn iets gestegen: per les van anderhalf uur betaal je **15,- Euro**, voor een 10-beurten kaart **135,- Euro**.  
-Dit is nodig omdat de huurprijzen van de zalen zijn verhoogd.  
-
-Kunnen jullie ook reclame maken voor de beginnerslessen op dinsdagavond?  
-Als je iemand kent die geïnteresseerd is, vertel hem/haar dat en laat ze contact opnemen met mij, Marc en Nancy.  
-Zo kan ik verschillende kanalen aanspreken om nieuwe studenten aan te trekken.   
-Bedankt daarvoor op voorhand!  
+In de wachtkamer van het Leven wordt NIEMAND vergeten! Blijf vertrouwen! Maar met twee volle handen kun je niets aanpakken.  
+Geef weg, dan heb je de ruimte om dat wat op je afkomt aan te pakken.  
+Zo niet, ben je het voor altijd kwijt!  
+En gebruik al jouw gaven en talenten om anderen ten dienste te zijn.  
+Doe het niet om aanzien te verwerven. Anders ga ten onder aan je ego.  
   
-Als jullie naar de lessen willen komen, gelieve **iedereen** me dan via mail te verwittigen.  
-Vermeld naar welke les je komt en op welke dag. Dan kan ik de lijsten opmaken.  
+En geniet van de kleine dingen in het leven.  
+Dagelijkse dingen doen zoals opstaan, wassen, wierook branden   
+Zij lijken weinig belangrijk, toch omvatten zij de hele kosmos.  
+  
+Geniet daarom ook van de kleine dingen tijdens deze feestdagen! Ook al zitten we met de pandemie opgescheept  
+Laat je dat niet beletten om te genieten en verder te groeien.  
+Laat géén minuut verloren gaan  
+Verlies geen minuut!  
+  
+  
+Zalig Kerst en Gelukkig Nieuwjaar voor iedereen  
+  
+Eddy   
+    
+[Eén minuut  als pdf](/flyers/Nieuwjaar_2022.pdf)  
    
-Druk op link : <a href="javascript:linkTo_UnCryptMailto('nbjmup;feez/qsftfouAufmfofu/cf<nbsdifsnbot3Ahnbjm/dpn<obodzcfwfstAhnbjm/dpn');">eddy [dot] present [at] telenet [dot] be &amp; marchermans2 [at] gmail [dot] com &amp; nancybevers [at] gmail [dot] com</a> om mail te starten.  
-  
-Ik kijk er naar uit om jullie terug te zien!  
-  
-Warme groetjes,  
-Eddy  
- 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
   

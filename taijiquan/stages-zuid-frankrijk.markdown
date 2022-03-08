@@ -28,7 +28,8 @@ Voor augustus 2022 zijn er nog volgende plaatsen vrij:
 
 ## Waar  
 
-Het centrum ligt in Hohwald, een plaatsje in de Elzas op de rand van de Vogezen in Frankijk.
+Het centrum ligt in Hohwald, een plaatsje in de Elzas op de rand van de Vogezen in Frankijk.  
+([zie flyer onderaan](#flyer-informatie-locatie-))  
 Het ligt nog in de rijke wijnstreek van de Elzas, de Vogezen zijn wat armoediger.
 Het is ongeveer 475 km van Mechelen af. Met de auto rij je ca. 5 uurtjes.  
 Dus geen overnachtingen meer en géén péage te betalen tot daar!  
@@ -94,3 +95,13 @@ Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voo
 ## Belangrijk
 
 Geef ook GSM-nrs en e-mailadressen door zodat iedereen bereikt kan worden. Een lijst met alle deelnemers zal jullie op voorhand worden gegeven zodat jullie met elkaar kunnen afspreken, in verband met carpooling en/of treintickets. Meld ook hoe je wenst te reizen.  
+
+## Flyer informatie locatie :
+  
+<img src="flyer/../flyers/../../flyers/flyer_kosmopalace_01.jpg" width="100%" >  
+  
+<img src="flyer/../flyers/../../flyers/flyer_kosmopalace_02.jpg" width="100%" >  
+  
+<img src="flyer/../flyers/../../flyers/flyer_kosmopalace_03.jpg" width="100%" >  
+  
+  

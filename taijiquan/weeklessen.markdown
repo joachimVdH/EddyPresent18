@@ -19,28 +19,24 @@ layout: page
 
 # Mechelen
 
-[Download Agenda Mechelen 2021-22 - pdf - 32kb - 28 aug](/flyers/Mechelen_2021-22.pdf){:target="_blank"}  
+[Download Agenda Mechelen 2022-23 - pdf - 43kb - 29 jun](/flyers/Mechelen_2022-23.pdf){:target="_blank"} 
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
 <table>
 <thead>
 <tr>
-	<th>&nbsp;</th>
 	<th>dinsdag</th>
 	<th>donderdag</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td>18:45-20:15</td>
-	<td>Halfgevorderden <br>door Eddy Present &amp; Marc Hermans</td>
-	<td>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
+	<td rowspan=2>20:00-21:30<br>Beginners<br>door Eddy Present &amp; Marc Hermans</td>
+	<td>18:45-20:15<br>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 <tr>
-	<td>20:30-22:00</td>
-	<td>Beginners <br>door Eddy Present &amp; Marc Hermans &amp; Nancy Bevers</td>
-	<td>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
+	<td>20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 </tbody>
 </table>

@@ -12,20 +12,9 @@ Bij eventuele annulatie van een deelnemer, zal iemand die plaats kunnen innemen.
 Met dien verstande dat wie eerst op de reservelijst staat, eerst zal kunnen deelnemen.  
 Al naar gelang dat het dame of een man is die geannuleerd heeft.   -->
   
-*  Juni: van 3 tot en met 10 juni 2023
+*  Jun: van 3 tot en met 10 juni 2023
 *  Aug: van 12 tot en met 19 augustus 2023
   
-In juni 2022 zijn er nog volgende plaatsen vrij:  
-
-- 1 plaats voor een man op een 2-persoonskamer  
-- Plaatsen voor tenten en/of mobilehome  
-
-Voor augustus 2022 zijn er nog volgende plaatsen vrij:  
-
-- 2 plaatsen voor dames op een 3-persoonskamer  
-- Plaatsen voor tenten en/of mobilehome  
-
-
 ## Waar  
 
 Het centrum ligt in Hohwald, een plaatsje in de Elzas op de rand van de Vogezen in Frankijk.  
@@ -85,8 +74,8 @@ BIC : KREDBEBB
 
 Voorschot voor de stages: 200 Euro
 
-* Voorschot stages Juni 2022 &ndash; te storten voor 28 februari 2022, resterend bedrag voor 30 April.  
-* Voorschot stages Augustus 2021 &ndash; te storten voor 31 maart 2022, resterend bedrag voor 15 Juni.    
+* Voorschot stages Juni 2023 &ndash; te storten voor 28 februari 2023, resterend bedrag voor 30 April 2023.  
+* Voorschot stages Augustus 2023 &ndash; te storten voor 31 maart 2023, resterend bedrag voor 15 Juni 2023.    
 
 
 **Denk eraan:  

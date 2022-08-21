@@ -32,7 +32,7 @@ layout: page
 </thead>
 <tbody>
 <tr>
-	<td rowspan=2>20:00-21:30<br>Beginners<br>door Eddy Present &amp; Marc Hermans</td>
+	<td rowspan=2>20:00-21:30<br>beginners en halfgevorderden<br>door Eddy Present &amp; Marc Hermans</td>
 	<td>18:45-20:15<br>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 <tr>
@@ -58,12 +58,8 @@ layout: page
 </thead>
 <tbody>
 <tr>
-	<td>18:45-20:15</td>
+	<td>19:00-20:30</td>
 	<td>Beginners en halfgevorderden</td>
-</tr>
-<tr>
-	<td>20:30-22:00</td>
-	<td>Gevorderden en vergevorderden</td>
 </tr>
 </tbody>
 </table>

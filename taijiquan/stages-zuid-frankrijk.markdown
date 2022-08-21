@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Stages Zuid-Frankrijk 
+title: Stages in Frankrijk 
 ---
 ### Wil je graag TaiJi intensief en diepgaand oefenen in de natuur?  
 
@@ -12,8 +12,8 @@ Bij eventuele annulatie van een deelnemer, zal iemand die plaats kunnen innemen.
 Met dien verstande dat wie eerst op de reservelijst staat, eerst zal kunnen deelnemen.  
 Al naar gelang dat het dame of een man is die geannuleerd heeft.   -->
   
-*  Juni: van 4 tot 11 juni 2022
-*  Aug: van 13 tot 20 augustus 2022
+*  Juni: van 3 tot en met 10 juni 2023
+*  Aug: van 12 tot en met 19 augustus 2023
   
 In juni 2022 zijn er nog volgende plaatsen vrij:  
 

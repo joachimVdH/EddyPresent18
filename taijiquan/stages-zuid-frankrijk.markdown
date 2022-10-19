@@ -52,10 +52,10 @@ Bedoeling is om na drie seminaries een diploma uit te reiken.
 
 De prijzen zijn als volgt:
 
-- 1-persoonskamer 570,- Euro per persoon
-- 2-persoonskamer 540,- Euro per persoon
-- 3-persoonskamer 510,- Euro per persoon 
-- Tent of mobile home 490,- Euro per persoon
+- 1-persoonskamer 590,- Euro per persoon
+- 2-persoonskamer 560,- Euro per persoon
+- 3-persoonskamer 530,- Euro per persoon 
+- Tent of mobile home 510,- Euro per persoon
 
 **Let op :**
 Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 340 Euro). Maar deelnemers hebben altijd voorrang.
@@ -74,8 +74,8 @@ BIC : KREDBEBB
 
 Voorschot voor de stages: 200 Euro
 
-* Voorschot stages Juni 2023 &ndash; te storten voor 28 februari 2023, resterend bedrag voor 30 April 2023.  
-* Voorschot stages Augustus 2023 &ndash; te storten voor 31 maart 2023, resterend bedrag voor 15 Juni 2023.    
+* Voorschot stages Juni 2023 &ndash; te storten voor 15 januari 2023, resterend bedrag voor 31 maart 2023.  
+* Voorschot stages Augustus 2023 &ndash; te storten voor 15 maart 2023, resterend bedrag voor 31 mei 2023.    
 
 
 **Denk eraan:  

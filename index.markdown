@@ -29,7 +29,7 @@ Prettige feestdagen!
 
 <hr>  
 
-Er zijn nog enkele plaatsen vrij voor de [seminaries in Frankrijk](/taijiquan/stages-zuid-frankrijk.html). 
+Er zijn nog enkele plaatsen vrij voor de [seminaries in Frankrijk](/taijiquan/seminaries.html). 
   
 <hr>   
    

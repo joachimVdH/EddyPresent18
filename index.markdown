@@ -40,7 +40,7 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ## De agenda's
 
-* [Download Agenda Mechelen 2022-23 - pdf - 43kb - 29 jun](/flyers/Mechelen_2022-23.pdf){:target="_blank"}  
+* [Download Agenda Mechelen 2022-23 - pdf - 43kb - 20 jan](/flyers/Mechelen_2022-23.pdf){:target="_blank"}  
 <!-- * [Download Agenda Grimbergen 2020-21 - pdf - 47kb - 1 sep](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}   -->
 
 

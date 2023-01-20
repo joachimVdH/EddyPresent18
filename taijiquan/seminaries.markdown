@@ -6,50 +6,40 @@ title: Seminaries
 
 ## Stages Cadzandie, Nederland  
 
-<!-- De seminaries van mei en augustus 2021 zijn **volgeboekt**!  
-Eventuele verdere inschrijvingen zullen op de reservelijst komen.  
-Bij eventuele annulatie van een deelnemer, zal iemand die plaats kunnen innemen.  
-Met dien verstande dat wie eerst op de reservelijst staat, eerst zal kunnen deelnemen.  
-Al naar gelang dat het dame of een man is die geannuleerd heeft.   -->
-  
-*  van 23 juni tot en met 30 juni 2023
+Spijtig genoeg zijn de seminaries voor 2023 in Hohwald geannuleerd omdat de verkoop van het centrum niet is doorgegaan.
 
+Ik heb wel een locatie gevonden in Cadzand voor de periode **vrijdag 23 juni tot vrijdag 30 juni 2023**.  
+Dus dit jaar gaat er maar één seminarie door, tenzij men nog plaats heeft in de week van Allerheiligen in oktober/november 2023.  
   
 ## Waar  
 
-[www.cadzandie.be](http://www.cadzandie.be){:target="_blank"}
-
-En er is plaats voor meer dan honderdvijftig personen.
-Slapen doe je in wooneenheden met 1- persoonskamers en 2-3-persoonskamers 
-
-Alles is daar beschikbaar, vegetarische keuken, een grote zaal, we kunnen buiten oefenen,
-er is een bos in de buurt en we zitten 4 km van de zee.
-
-
+Cadzand is een leuke locatie vlak bij zee en in de volle natuur. Er zijn 1- persoons en 2-3- persoonskamers beschikbaar.  
+Er zijn ook 3 zalen waar we kunnen oefenen en mediteren. Uiteraard oefenen we buiten als het weer meewerkt, hoor.  
   
-## Programma
-
-Jullie worden op vrijdag vanaf 14:00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starîen op zaterdag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.  
+Alles is daar beschikbaar, vegetarische keuken, er is een bos in de buurt en we zitten 4 km van de zee.  
+  
+Ook voor volgend jaar, heb ik al een optie genomen rond dezelfde week als dit jaar. En ik probeer ook in november (met Allerheiligen) in week te reserveren.  
+  
+Voor dit jaar juni zit het seminarie al eivol. Je kan je op de reservelijst plaatsen en wanneer er iemand zou annuleren kan je die plaats innemen. Wie eerst komt, eerst maalt.  
+  
+Je kan je eigen lakens meebrengen, maar je kan daar ook een lakenpakker huren aan 10 Euro.  
+  
+Ik heb aan het centrum gezegd dat we de eigen schoonmaak doen van de kamers en de meditatiezaal. Zo drukken we de kosten toch een beetje.  
+  
+website over de locatie : [www.cadzandie.be](http://www.cadzandie.be){:target="_blank"}  
+  
+## Programma  
+  
+Jullie worden op vrijdag om 16:00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starten op zaterdag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.   
 De laatste dag stoppen we om 17:00 zodat we het seminarie feestelijk afsluiten.  
-Op vrijdag vertrekt iedereen om 10:00 weer naar huis.  
+Op vrijdag vertrekt iedereen na het middagmaal weer naar huis.  
 
-Er wordt een **masterclass** georganiseerd die voor **iedereen** openstaat.  
-Er wordt nadruk gelegd op hoe de bewegingen en houdingen precies aanvoelen. Er wordt veel aandacht besteed aan het energetische aspect. Deelnemers aan dit seminarie krijgen dan een getuigschrift.  
-Bedoeling is om na drie seminaries een diploma uit te reiken.
-
-
-**Je kan uiteraard deelnemen aan meerdere stages.**
 ## Praktisch
 
 De prijzen zijn als volgt:
 
-- Voor 2 - 3 persoonskamers is 632,- Euro
-- Voor een 1-persoonskamer is 734,- Euro 
-
-**Let op :**
-Mensen die hun niet—deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs ??? Euro). Maar deelnemers hebben altijd voorrang.
-
-Voor alle verdere informatie kan je mij altijd contacteren. 
+- Voor 2 - 3 persoonskamers is 687,- Euro
+- Voor een 1-persoonskamer is 834,- Euro 
 
 ## Inschrijven en informatie
 
@@ -62,15 +52,9 @@ Bedragen te storten op
 Europees rekeningnummer : BE60 7360 7560 2470
 BIC : KREDBEBB  
 
-Voorschot voor de stages: 200 Euro
+Voorschot voor de stages: 
 
-* Voorschot Juni 2023 &ndash; te storten voor 31 januari 2023, resterend bedrag voor 31 maart 2023.   
+200 Euro te storten voor **28 februari 2023**, 
+resterend bedrag voor **30 april 2023**.   
 
-
-**Denk eraan:  
-Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.**
-
-## Belangrijk
-
-Geef ook GSM-nrs en e-mailadressen door zodat iedereen bereikt kan worden. Een lijst met alle deelnemers zal jullie op voorhand worden gegeven zodat jullie met elkaar kunnen afspreken, in verband met carpooling. Meld ook hoe je wenst te reizen.  
 

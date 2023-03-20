@@ -24,5 +24,5 @@ group :jekyll_plugins do
 end
 
 #gem "webrick", "~> 1.7"
-gem "webrick" 
+#gem "webrick" 
 #gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-converter', branch: 'master'

@@ -69,7 +69,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-sitemap
-  webrick
 
 BUNDLED WITH
    2.3.7

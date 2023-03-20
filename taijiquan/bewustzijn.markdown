@@ -6,7 +6,7 @@ sharing: false
 footer: true
 ---
 
-Nieuwe workshop “natuur van bewustzijn”  - lees hieronder of [via de pdf flyer](/flyers/2023_NatuurVanBewustzijn.pdf)
+Nieuwe workshop “**De Natuur van Bewustzijn**”  - lees hieronder of [via de pdf flyer](/flyers/2023_NatuurVanBewustzijn.pdf)
 
 ---
 

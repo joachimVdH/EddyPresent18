@@ -11,12 +11,12 @@ footer: true
   
 Elke donderdag bij droog weer in het vrijbroekpark.
 
-Exacte locatie in 't vrijbroekpark  waar we oefenen : <a href="https://goo.gl/maps/Q6obgVEHhmfsMfwKA">https://goo.gl/maps/Q6obgVEHhmfsMfwKA</a>  
-Parking richting Taijiveld is afgesloten je kan parkeren op de <a href="https://www.google.com/maps/place/51.016294051582015,%204.464680042018036">hombeeksesteenweg  </a>of op <a href="https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html">Extra parking Vrijbroekpark - Provincie Antwerpen</a>
-
-
+Exacte locatie in 't vrijbroekpark  waar we oefenen : <a href="https://goo.gl/maps/Q6obgVEHhmfsMfwKA" target="_blank">rode pijl op google maps</a>  
+Parking richting Taijiveld is afgesloten je kan parkeren op de <a href="https://www.google.com/maps/place/51.016294051582015,%204.464680042018036" target="_blank">hombeeksesteenweg  </a>of op <a href="https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html" target="_blank">Extra parking Vrijbroekpark - Provincie Antwerpen</a>  
+  
+  
 <hr>  
-
+  
 ## !! Nieuwe [workshop “natuur van bewustzijn”](/taijiquan/bewustzijn.html).  
   
 In deze workshop krijg je een theoretische achtergrond die toegepast wordt in verschillende praktische vormen zoals meditatie, yoga, zelfreflectie en spirituele oefeningen. We cultiveren een positive levenshouding, streven persoonlijke groei na en hogere spirituele doelen.  

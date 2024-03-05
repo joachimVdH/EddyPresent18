@@ -45,7 +45,7 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE68 7350 6203 6134
+Europees rekeningnummer : BE60 7360 7560 2470 of als je faktuur wilt op BE68 7350 6203 6134  
 BIC : KREDBEBB  
 met vermelding van uw naam en "Seminarie Cadzand 2024"  
   

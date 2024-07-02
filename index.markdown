@@ -7,40 +7,24 @@ sharing: false
 footer: true
 ---
 
-### *2024*  
+## Zomer Taijiquan in 't park
+
+Gratis samen oefenen.  
+Iedereen die met vragen zit, kan deze inbrengen. Het is testen, uitzoeken en inoefenen.  
   
-Omdat ik mens ben, leer ik om te begrijpen om  
-Zelf door Liefde te veranderen,  
-Om Zelf vanuit waarheid te leven,  
-Om Zelf vanuit vrijheid te denken.  
+Exacte locatie in 't vrijbroekpark : [pin google maps](https://goo.gl/maps/Q6obgVEHhmfsMfwKA){:target="_blank"}
   
-Omdat ik mens ben, leer ik om  
-Mijn verantwoordelijkheid voor Moeder Aarde te nemen  
-En haar te bedanken voor alle overvloed en geschenken die ze ons geeft.  
+Parking richting Taijiveld is afgesloten je kan parkeren op de [hombeeksesteenweg](https://www.google.com/maps/place/51%C2%B000'58.7%22N+4%C2%B027'52.9%22E/@51.0162941,4.46468,17z/data=!3m1!4b1!4m4!3m3!8m2!3d51.0162941!4d4.46468?entry=ttu){:target="_blank"}  of op [Extra parking Vrijbroekpark - Provincie Antwerpen](https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html){:target="_blank"}
   
-Omdat ik mens ben leer ik andere mensen  
-Met liefde, mededogen en acceptatie te bejegenen,  
-Zonder uitzondering en onvoorwaardelijk en  
-Ze te nemen zoals ze zijn en hun tekortkomingen te vergeven  
+
+## Vorm verdiepings weekends in Cadzand
+
+Er zullen 2 weekends doorgaan om de vorm te verdiepen in Cadzand.  
+Hou volgende weekends alvast vrij:  
+-  vrijdagavond 29 november tot zondag 1 december 2024  
+-  vrijdagavond 21 maart tot zondag 23 maart 2025  
   
-Omdat ik mens ben, leer ik  
-Om mijn hart te ontvouwen en in mijn hart aanwezig te zijn.  
-Om mijn hart te vertrouwen in de goede dingen die het mij verteld.  
-Dat alles komt zoals het zal komen, dat het is wat het is  
-  
-Omdat ik mens ben, leer ik  
-Het Universum te vertrouwen, er naar te luisteren  
-En te accepteren wat het mij brengt en schenkt.  
-En het zegt me steeds weer opnieuw dat falen niet bestaat,  
-Het Universum geeft me telkens wéér onvoorstelbaar veel kansen  
-  
-Als mens blijf ik leren om te leven naar wat mijn hart me ingeeft  
-En telkens weer opnieuw de gekregen kansen waar te maken  
-  
-Als mens wens ik jullie allemaal  
-Een Zalig Kerst en Gelukkig Nieuwjaar  
-  
-Eddy  
+Meer informatie volgt later.
   
   
    
@@ -51,7 +35,7 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ## De agenda's
 
-* [Download Agenda Mechelen 2023-24 - pdf - 39kb - 20 jun](/flyers/Mechelen_2023-24.pdf){:target="_blank"}  
+* [Download Agenda Mechelen 2024-25 - pdf - 39kb - 2 jul](/flyers/Mechelen_2024-25.pdf){:target="_blank"}  
 <!-- * [Download Agenda Grimbergen 2020-21 - pdf - 47kb - 1 sep](/flyers/Grimbergen_2020-21.pdf){:target="_blank"}   -->
 
 

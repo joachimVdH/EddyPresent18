@@ -6,12 +6,12 @@ title: Seminaries
 
 ## Stages Cadzandie, Nederland  
 
-Het seminarie gaat door van **vrijdag, 21 juni** tot en met **vrijdag, 28 juni**.
-Op vrijdagmiddag, 28 juni is er nog ontbijt en een middagmaal voorzien om 12 h 30. 
+Het seminarie gaat door van **vrijdag, 20 juni** tot en met **vrijdag, 27 juni 2025**.
+Op vrijdagmiddag, 27 juni is er nog ontbijt en een middagmaal voorzien om 12 h 30. 
   
 ## Waar  
 
-Cadzand is een leuke locatie vlak bij zee en in de volle natuur. Er zijn 1- persoons en 2-3- persoonskamers beschikbaar.  
+Cadzand is een leuke locatie vlak bij zee en in de volle natuur. Er zijn 1- persoons en 2 persoonskamers beschikbaar.  
 Er zijn ook 3 zalen waar we kunnen oefenen en mediteren. Uiteraard oefenen we buiten als het weer meewerkt, hoor.  
   
 Alles is daar beschikbaar, vegetarische keuken, er is een bos in de buurt en we zitten 4 km van de zee.   
@@ -30,8 +30,8 @@ Op vrijdag vertrekt iedereen na het middagmaal weer naar huis.
 
 De prijzen zijn als volgt - all in, ook lakenpakket:
 
-- Voor 2 - 3 persoonskamers is 735,- Euro
-- Voor een 1-persoonskamer is 895,- Euro 
+- Voor een 2-persoonskamer is het 763,- Euro per person (lakens inbegrepen, vol pension)
+- Voor een 1-persoonskamer is het 938,- Euro per persoon (lakens inbegrepen, vol pension)
 
 Een partner of echtgeno(o)t(e) die meekomt, maar niet meedoet met het seminarie betaalt 585 Euro.
 
@@ -45,13 +45,12 @@ Of even doorgeven op de lessen zelf
 ## Betalingen
 
 Bedragen te storten op   
-Europees rekeningnummer : BE60 7360 7560 2470 of als je faktuur wilt op BE68 7350 6203 6134  
+Europees rekeningnummer : BE60 7360 7560 2470, indien een faktuur nodig storten op : BE68 7350 6203 6134  
 BIC : KREDBEBB  
-met vermelding van uw naam en "Seminarie Cadzand 2024"  
+met vermelding van uw naam en "Seminarie Cadzand 2025"  
   
 Voorschot voor de stages:  
   
-250 Euro te storten voor **15 januari 2024**,  
-resterend bedrag voor **31 maart 2024**.   
-
+250 Euro te storten voor **31 december 2024**,  
+resterend bedrag voor **31 maart 2025**.   
 

@@ -42,12 +42,11 @@ Wie een handdoeken-pakket wil, betaald daarvoor 6 euro extra, maar dit is niet v
 Inschrijven kan bij Eddy. Zie [wie ben ik](../wie-ben-ik.html) en [contact](../contact.html)<br />
 Of even doorgeven op de lessen zelf
 
+Wanneer je ingeschreven bent, zal Eddy je de betalingsinstructies meedelen, alsook een vragenlijst.  
+  
 ## Betalingen
 
-Bedragen te storten op   
-Europees rekeningnummer : BE60 7360 7560 2470, indien een faktuur nodig storten op : BE68 7350 6203 6134  
-BIC : KREDBEBB  
-met vermelding van uw naam en "Seminarie Cadzand 2025"  
+Vermeld van uw naam en "Seminarie Cadzand 2025"  
   
 Voorschot voor de stages:  
   

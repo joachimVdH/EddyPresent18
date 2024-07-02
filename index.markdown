@@ -16,13 +16,13 @@ Exacte locatie in 't vrijbroekpark : [pin google maps](https://goo.gl/maps/Q6obg
   
 Parking richting Taijiveld is afgesloten je kan parkeren op de [hombeeksesteenweg](https://www.google.com/maps/place/51%C2%B000'58.7%22N+4%C2%B027'52.9%22E/@51.0162941,4.46468,17z/data=!3m1!4b1!4m4!3m3!8m2!3d51.0162941!4d4.46468?entry=ttu){:target="_blank"}  of op [Extra parking Vrijbroekpark - Provincie Antwerpen](https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html){:target="_blank"}
   
+**!! veel muggen in 't park - voorzie bescherming !!**
 
-## Vorm verdiepings weekends in Cadzand
 
-Er zullen 2 weekends doorgaan om de vorm te verdiepen in Cadzand.  
-Hou volgende weekends alvast vrij:  
--  vrijdagavond 29 november tot zondag 1 december 2024  
--  vrijdagavond 21 maart tot zondag 23 maart 2025  
+## Vorm verdiepings weekends
+
+Er zullen 2 weekends doorgaan om de vorm te verdiepen.  
+1 weekend in het najaar van 2024 en 1 weekend in het voorjaar van 2025.
   
 Meer informatie volgt later.
   

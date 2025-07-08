@@ -6,7 +6,7 @@ title: Seminaries
 
 ## Stages Cadzandie, Nederland  
 
-Het seminarie gaat door van **vrijdag, 26 juni** tot en met **vrijdag, 3 juLi 2026**.
+Het seminarie gaat door van **vrijdag, 26 juni** tot en met **vrijdag, 3 juli 2026**.  
 Op vrijdagmiddag, 3 juli is er een middagmaal voorzien om 12 h 30. 
   
 ## Waar  
@@ -47,7 +47,7 @@ Wanneer je ingeschreven bent, zal Eddy je de betalingsinstructies meedelen, also
   
 ## Betalingen
 
-Vermeld van uw naam en "Seminarie Cadzand 2025"  
+Vermeld van uw naam en "Seminarie Cadzand 2026"  
   
 Voorschot voor de stages:  
   

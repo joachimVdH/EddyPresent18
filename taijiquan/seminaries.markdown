@@ -6,8 +6,8 @@ title: Seminaries
 
 ## Stages Cadzandie, Nederland  
 
-Het seminarie gaat door van **vrijdag, 20 juni** tot en met **vrijdag, 27 juni 2025**.
-Op vrijdagmiddag, 27 juni is er nog ontbijt en een middagmaal voorzien om 12 h 30. 
+Het seminarie gaat door van **vrijdag, 26 juni** tot en met **vrijdag, 3 juLi 2026**.
+Op vrijdagmiddag, 3 juli is er een middagmaal voorzien om 12 h 30. 
   
 ## Waar  
 
@@ -22,7 +22,8 @@ website over de locatie : [www.cadzandie.be](http://www.cadzandie.be){:target="_
   
 ## Programma  
   
-Jullie worden op vrijdag om 16:00 verwacht zodat iedereen zich kan inrichten en uitgerust het seminarie kan starten op zaterdag. Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.   
+Jullie worden op vrijdag vanaf 16:00 verwacht, om 18:00 eten we, zodat iedereen zich kan inrichten en uitgerust het seminarie kan starten op zaterdag. 
+Het programma zal zoals gewoonlijk ter plaatse uitgehangen worden.   
 De laatste dag stoppen we om 17:00 zodat we het seminarie feestelijk afsluiten.  
 Op vrijdag vertrekt iedereen na het middagmaal weer naar huis.  
 
@@ -50,6 +51,6 @@ Vermeld van uw naam en "Seminarie Cadzand 2025"
   
 Voorschot voor de stages:  
   
-250 Euro te storten voor **31 december 2024**,  
-resterend bedrag voor **31 maart 2025**.   
+250 Euro te storten **na** 1 januari en voor **31 januari 2026**,  
+resterend bedrag voor **31 maart 2026**.   
 

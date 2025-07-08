@@ -19,7 +19,7 @@ layout: page
 
 # Mechelen
 
-[Download Agenda Mechelen 2024-25 - pdf - 39kb - 24 aug](/flyers/Mechelen_2024-25.pdf){:target="_blank"}  
+[Download Agenda Mechelen 2025-26 - pdf - 40kb - 8 jul](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
@@ -32,11 +32,13 @@ layout: page
 </thead>
 <tbody>
 <tr>
-	<td rowspan=2>20:00-21:30<br>beginners en halfgevorderden<br>door Eddy Present &amp; Marc Hermans</td>
-	<td>18:45-20:15<br>Gevorderden <br>door Eddy Present &amp; Marc Hermans</td>
+	<td rowspan=2>20:00-21:30<br><i>Halfgevorderden (+ Beginners)</i><br>door Eddy Present &amp; Joachim Van der Hoeven
+	<br><i>Gevorderden</i><br>door Eddy Present &amp; Marc Hermans
+	</td>
+	<td>18:45-20:15<br><i>Gevorderden </i><br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 <tr>
-	<td>20:30-22:00<br>Vergevorderd <br>door Eddy Present &amp; Marc Hermans</td>
+	<td>20:30-22:00<br><i>Vergevorderd </i><br>door Eddy Present &amp; Marc Hermans</td>
 </tr>
 </tbody>
 </table>

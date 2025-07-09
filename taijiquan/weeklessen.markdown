@@ -73,7 +73,7 @@ Iets om te drinken meebrengen is altijd verstandig.
 
 ## Lesgelden (BTW inbegrepen)
 * per les van 1,5 uur = 15 &euro;
-* per 10 beurtenkaart = 135 &euro; 
+* per 10 beurtenkaart = 140 &euro; 
 * 10 beurtenkaart word aangeschaft tijdens de les.
 
 

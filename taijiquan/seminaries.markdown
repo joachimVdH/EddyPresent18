@@ -29,14 +29,16 @@ Op vrijdag vertrekt iedereen na het middagmaal weer naar huis.
 
 ## Praktisch
 
-De prijzen zijn als volgt - all in, ook lakenpakket:
+De prijzen volgen nog.
+
+<!-- De prijzen zijn als volgt - all in, ook lakenpakket:
 
 - Voor een 2-persoonskamer is het 763,- Euro per person (lakens inbegrepen, vol pension)
 - Voor een 1-persoonskamer is het 938,- Euro per persoon (lakens inbegrepen, vol pension)
 
 Een partner of echtgeno(o)t(e) die meekomt, maar niet meedoet met het seminarie betaalt 585 Euro.
 
-Wie een handdoeken-pakket wil, betaald daarvoor 6 euro extra, maar dit is niet verplicht. Wel vermelden aub!
+Wie een handdoeken-pakket wil, betaald daarvoor 6 euro extra, maar dit is niet verplicht. Wel vermelden aub! -->
 
 ## Inschrijven en informatie
 

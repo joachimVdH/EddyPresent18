@@ -7,24 +7,13 @@ sharing: false
 footer: true
 ---
 
-
-
-## Zomer Taijiquan in 't park
-
-Gratis samen oefenen.  
-Iedereen die met vragen zit, kan deze inbrengen. Het is testen, uitzoeken en inoefenen.  
-
-Elke donderdag om <s><i>19:30</i></s> in Juli & Augustus.
-### We starten een half uurtje eerder op donderdag 28 augustus en 4 september, om 19u.
-
-Exacte locatie in 't vrijbroekpark : [pin google maps](https://goo.gl/maps/Q6obgVEHhmfsMfwKA){:target="_blank"}
+### Al de lessen zijn gestart !
   
-Parking richting Taijiveld is afgesloten je kan parkeren op de [hombeeksesteenweg - 5 min wandelen](https://maps.app.goo.gl/ZJ8SFFi4MQ3Thwkx7){:target="_blank"}  of op [Extra parking Vrijbroekpark - Provincie Antwerpen - 10 min wandelen](https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html){:target="_blank"}
+Weekends zijn bekend : https://eddypresent.be/taijiquan/weekends
   
-**!! veel muggen in 't park - voorzie bescherming !!**
-<br><br>
+Zoek je de vorm filmpjes? Deze kan je vinden onder de rubriek De vorm : https://eddypresent.be/taijiquan/vorm
 
-### De eerste lessen starten op dinsdag 9 september !
+
 <br>    
 ## De agenda's
 

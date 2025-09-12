@@ -9,9 +9,9 @@ footer: true
 
 ### Al de lessen zijn gestart !
   
-Weekends zijn bekend : https://eddypresent.be/taijiquan/weekends
+Weekends zijn bekend, kijk op [Weekends](https://eddypresent.be/taijiquan/weekends) voor meer informatie.
   
-Zoek je de vorm filmpjes? Deze kan je vinden onder de rubriek De vorm : https://eddypresent.be/taijiquan/vorm
+Zoek je de vorm filmpjes? Deze kan je vinden onder de rubriek  [De Vorm](https://eddypresent.be/taijiquan/vorm) 
 
 
 <br>    

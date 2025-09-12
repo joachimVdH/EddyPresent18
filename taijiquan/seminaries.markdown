@@ -48,7 +48,7 @@ Wanneer je ingeschreven bent, zal Eddy je de betalingsinstructies meedelen, also
 Vermeld van uw naam en "Seminarie Cadzand 2026"  
   
 Voorschot voor de stages:  
-  
 250 Euro te storten **na** 1 januari en voor **31 januari 2026**,  
-resterend bedrag voor **31 maart 2026**.   
+  
+Resterend bedrag voor **31 maart 2026**.   
 

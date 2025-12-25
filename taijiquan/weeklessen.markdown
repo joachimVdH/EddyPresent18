@@ -19,7 +19,7 @@ layout: page
 
 # Mechelen
 
-[Download Agenda Mechelen 2025-26 - pdf - 40kb - 28 aug](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
+[Download Agenda Mechelen 2025-26 - pdf - 40kb - 25 dec](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 

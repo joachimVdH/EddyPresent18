@@ -46,13 +46,13 @@ principe dat het door geen enkele externe oorzaak gedwongen kan worden iets voor
   
 En omdat we op een bepaalde manier nauw verbonden zijn met alle delen, zullen we niets doen wat tegen het geheel inwerkt, maar zullen we al onze inspanningen richten op het algemeen belang en ons onthouden van het tegendeel. Het kan niet anders of het leven moet wel goed verlopen, zodat we ook kunnen zien dat wanneer iemand die zich voor zijn medemensen inspant, gelukkig en tevreden is met wat hem toekomt.  
   
-> *Als de elementen zelf voortdurend van vorm veranderen zonder daarvan schade te ondervinden, waarom zou je je dan zorgen maken over het veranderen of uiteenvallen van de dingen. Het gebeurt in overeenstemming met de natuur, en wat de natuur doet, kan nooit slecht zijn!  
+> Als de elementen zelf voortdurend van vorm veranderen zonder daarvan schade te ondervinden, waarom zou je je dan zorgen maken over het veranderen of uiteenvallen van de dingen. Het gebeurt in overeenstemming met de natuur, en wat de natuur doet, kan nooit slecht zijn!  
 > 
 > Zie je niet hoe alles, de planten, dieren, vogels, mieren, spinnen en bijen allemaal op de hun eigenste manier de verschillende delen van de kosmos onderhouden?  
 >   
-> Marcus Aurelius*
+> Marcus Aurelius
   
-Gelukkig Nieuwjaar  
+**Gelukkig Nieuwjaar**  
 
   
 ---
@@ -60,7 +60,7 @@ Gelukkig Nieuwjaar
 <br>    
 ## De agenda's 
 
-* [Download Agenda Mechelen 2025-26 - pdf - 40kb - 28 aug](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
+* [Download Agenda Mechelen 2025-26 - pdf - 40kb - 25 dec](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het plusje te drukken - rechts onder de calenders.

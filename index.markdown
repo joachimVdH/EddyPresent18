@@ -23,7 +23,7 @@ Elke donderdag om 19:30 in Juli & Augustus. (vanaf donderdag 9 juli)
 
 Exacte locatie in 't vrijbroekpark : [pin google maps](https://goo.gl/maps/Q6obgVEHhmfsMfwKA){:target="_blank"}
 
-Parking richting Taijiveld is afgesloten je kan parkeren op de [hombeeksesteenweg - 5 min wandelen](https://maps.app.goo.gl/ZJ8SFFi4MQ3Thwkx7){:target="_blank"}  of op [Extra parking Vrijbroekpark - Provincie Antwerpen - 10 min wandelen](https://www.provincieantwerpen.be/content/provant/nl/nieuws.masterdetail.html/p_detail_url/nl/dvt/provinciale-groendomeinen-regio-mechelen/nieuws/extra-parking-vrijbroekpark.html){:target="_blank"}
+[Naar het Vrijbroekpark met fiets, openbaar vervoer of auto](https://www.provincieantwerpen.be/nl/locaties/Vrijbroekpark/naar%20het-vrijbroekpark){:target="_blank"}
    
 **!! veel muggen in 't park - voorzie bescherming !!**
   

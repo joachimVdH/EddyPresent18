@@ -8,10 +8,10 @@ footer: true
 ---
 ## Verandering lessen juni 2026
 
-In de maand juni gaan zowel de lessen op dinsdag als donderdag door van 19:30 tot 21:30. 
-De lessen zullen een half uur langer duren.
-Donderdag worden de 2 lessen samen gegeven - dus 1 les van 19:30 tot 21:30. 
-
+In de maand juni gaan zowel de lessen op dinsdag als donderdag door van 19:30 tot 21:30.   
+De lessen zullen een half uur langer duren.   
+Donderdag worden de 2 lessen samen gegeven - dus 1 les van 19:30 tot 21:30.   
+   
 ---
 
 ## Zomer Taijiquan in 't park

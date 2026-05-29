@@ -19,7 +19,7 @@ layout: page
 
 # Mechelen
 
-[Download Agenda Mechelen 2025-26 - pdf - 40kb - 25 dec](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
+[Download Agenda Mechelen 2025-26 - pdf - 40kb - 29 mei](/flyers/Mechelen_2025-26.pdf){:target="_blank"}  
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
@@ -32,13 +32,12 @@ layout: page
 </thead>
 <tbody>
 <tr>
-	<td rowspan=2>20:00-21:30<br><i>Halfgevorderden (+ Beginners)</i><br>door  <a href="/wie-ben-ik.html">Eddy Present</a> &amp; Joachim Van der Hoeven
+	<td>19:30-21:30<br><i>Halfgevorderden (+ Beginners)</i><br>door  <a href="/wie-ben-ik.html">Eddy Present</a> &amp; Joachim Van der Hoeven
 	<br><i>Gevorderden</i><br>door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a>
 	</td>
-	<td>18:45-20:15<br><i>Gevorderden </i><br>door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a></td>
 </tr>
 <tr>
-	<td>20:30-22:00<br><i>Vergevorderd </i><br>door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a></td>
+	<td>19:30-21:30<br><i>Vergevorderd </i><br>door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a></td>
 </tr>
 </tbody>
 </table>

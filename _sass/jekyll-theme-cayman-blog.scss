@@ -1,7 +1,7 @@
-@import "normalize";
-@import "rouge-github";
-@import "variables";
-@import "blog";
+@use "normalize" as *;
+@use "rouge-github" as *;
+@use "variables" as *;
+@use "blog" as *;
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -430,7 +430,7 @@ a {
       color: $section-headings-color; // IE8
       fill: $section-headings-color;
       transform: scale(1.25);
-      transition: color .5s, transform .2s ease-out
+      transition: color .5s, transform .2s ease-out;
     }
 
     @include large {

@@ -8,15 +8,13 @@ title: Weekends
 
 Drie weekends, telkens op zaterdag én zondag.  
 Het zijn telkens de eerste weekends van schoolvakanties:  
-   
-- 25 en 26 oktober 2025
-- 14 en 15 februari 2026
-- 4 en 5 april 2026
-
+  
+- nog te beslissen
+  
 Zaterdag en zondag telkens van 10:30 tot 17:30 met middagpauze van telkens van 12:30 tot 14:00.  
 Middageten mee te brengen, voor drank wordt gezorgd.  
 
-Steeds in  de [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}   
+Steeds in  de [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
 ## Inschrijven en informatie
 

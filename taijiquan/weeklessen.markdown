@@ -11,64 +11,34 @@ layout: page
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://goo.gl/maps/nJ4emVbPqgHkvgBR6){:target="_blank"}  
 
 ### Wanneer :  
-<table>
-<thead>
-<tr>
-	<th>dinsdag</th>
-	<th>donderdag</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-	<td>19:30-21:30<br>
-		<i>Halfgevorderden</i><br>
-		door Joachim Van der Hoeven<br>
-		<i>Gevorderden</i><br>
-		door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a>
-	</td>
-	<td>19:30-21:30<br>
-		<i>Vergevorderd </i><br>
-		door <a href="/wie-ben-ik.html">Eddy Present</a> &amp; <a href="https://marchermans.be/" target="_blank">Marc Hermans</a>
-	</td>
-</tr>
-</tbody>
-</table>
+
+| dinsdag | donderdag |
+| 19:30-21:30<br>Halfgevorderden<br>door Joachim Van der Hoeven<br> | |
+| 19:30-21:30<br>Gevorderden<br> door [Eddy Present](/wie-ben-ik.html) &amp; [Marc Hermans](http://marchermans.be){:target="_blank"} | 19:30-21:30<br>Vergevorderd<br> door [Eddy Present](/wie-ben-ik.html) &amp; [Marc Hermans](http://marchermans.be){:target="_blank"} |
 
 
+## Lesgelden (BTW inbegrepen)
+* per les van 1,5 uur = 23 &euro;
+* per 10 beurtenkaart = 220 &euro; 
+* 10 beurtenkaart word aangeschaft tijdens de les.
+  
+Deze kaart is één kalenderjaar geldig
+  
+Een factuur of een bewijs kan verkregen worden.  
+Vraag informatie!  
 
 # Grimbergen
 
 
 [Basisschool De Regenboog, Speelbroek, 38 te 1850 Grimbergen](https://goo.gl/maps/j2Zjc7aH1UCb7dHaA){:target="_blank"}  
 
-
-<table>
-<thead>
-<tr>
-	<th>&nbsp;</th>
-	<th>vrijdag</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-	<td>19:00-20:30</td>
-	<td>Beginners en halfgevorderden door <a href="https://nancybeverstaiji.be/" target="_blank">Nancy Bevers</a></td>
-</tr>
-</tbody>
-</table>
-
+| vrijdag |
+| 19:00-20:30<br>Beginners en halfgevorderden door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} |
+  
+Voor meer informatie & prijzen kan je terecht op [https://nancybeverstaiji.be](https://nancybeverstaiji.be){:target="_blank"}  
+  
 # Algemeen
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen.  
 Iets om te drinken meebrengen is altijd verstandig.
 
-## Lesgelden (BTW inbegrepen)
-* per les van 1,5 uur = 23 &euro;
-* per 10 beurtenkaart = 220 &euro; 
-* 10 beurtenkaart word aangeschaft tijdens de les.
-
-
-Deze kaart is één kalenderjaar geldig
-
-Een factuur of een bewijs kan verkregen worden.  
-Vraag informatie!

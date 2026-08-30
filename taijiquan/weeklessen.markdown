@@ -18,7 +18,7 @@ layout: page
 
 
 ## Lesgelden (BTW inbegrepen)
-* per les van 1,5 uur = 23 &euro;
+* per les van 2 uur = 23 &euro;
 * per 10 beurtenkaart = 220 &euro; 
 * 10 beurtenkaart word aangeschaft tijdens de les.
   

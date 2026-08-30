@@ -7,7 +7,7 @@ title: Weekends
 ## Weekends in de basisschool De Spreeuwen in Mechelen 
 
 Drie weekends, telkens op zaterdag én zondag.  
-Het zijn telkens de eerste weekends van schoolvakanties:  
+<!-- Het zijn telkens de eerste weekends van schoolvakanties:   -->
   
 - nog te beslissen
   

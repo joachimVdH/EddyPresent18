@@ -23,7 +23,7 @@ Check de signalisatie — die verandert regelmatig.
   
 Voor je eigen gemak, gebruik een GPS die met acurate gegevens werkt en je zo de juiste routes aanbied.  
 
-<iframe src="https://embed.waze.com/iframe?zoom=16&lat=51.030961&lon=4.461091&ct=livemap" width="600" height="300" allowfullscreen></iframe>
+<iframe src="https://www.waze.com/en/live-map/directions/be/vlaanderen/mechelen/basisschool-de-spreeuwen-mechelen?place=ChIJ1_Rguerlw0cRTdfnN6tf7v0" width="80%"  allowfullscreen></iframe>
 
 
 

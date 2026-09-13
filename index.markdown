@@ -24,7 +24,6 @@ Check de signalisatie — die verandert regelmatig.
 Voor je eigen gemak, gebruik een GPS die met acurate gegevens werkt en je zo de juiste routes aanbied.  
 
 
-<iframe src="https://ul.waze.com/ul?place=ChIJ1_Rguerlw0cRTdfnN6tf7v0&ll=51.03096130%2C4.46109090&navigate=yes"  width="80%"  allowfullscreen></iframe>
 
 ---
 

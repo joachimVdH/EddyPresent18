@@ -7,19 +7,25 @@ sharing: false
 footer: true
 ---
 
-## Zomer Taijiquan in 't park
+De lessen zijn gestart !
 
-Gratis samen oefenen.  
-Iedereen die met vragen zit, kan deze inbrengen. Het is testen, uitzoeken en inoefenen.  
+Naast de nieuwe uren en prijzen - zie [weeklessen](taijiquan/weeklessen.html).  
 
-Elke donderdag om 19:30 in Juli & Augustus. (vanaf donderdag 9 juli)
+Is de speelplaats in verandering naar een echte kind speel plaats en kan je hier niet meer terecht met je wagen.
 
-Exacte locatie in 't vrijbroekpark : [pin google maps](https://goo.gl/maps/Q6obgVEHhmfsMfwKA){:target="_blank"}
-
-[Naar het Vrijbroekpark met fiets, openbaar vervoer of auto](https://www.provincieantwerpen.be/nl/locaties/Vrijbroekpark/naar%20het-vrijbroekpark){:target="_blank"}
-   
-**!! veel muggen in 't park - voorzie bescherming !!**
+Zijn er ook nog werken aan de battelsesteenweg komend half jaar [Officiele communicatie stad Mechelen]([/flyers/Mechelen_2026-27.pdf](https://www.mechelen.be/mobiliteit/wegenwerken-en-hinder/battelsesteenweg-vernieuwingswerken)){:target="_blank"}  
+in a nutshell :  
+Je kan altijd met de auto komen.  
+Soms moet je omrijden door enkelrichting.  
+Parkeren kan, maar aan de kant waar niet gewerkt wordt.  
+Rond De Spreeuwen blijven parkeerplaatsen bestaan, maar het kan wat puzzelen zijn.  
+Check de signalisatie — die verandert regelmatig.  
   
+Voor je eigen gemak, gebruik een GPS die met acurate gegevens werkt en je zo de juiste routes aanbied.  
+
+<iframe src="https://embed.waze.com/iframe?zoom=16&lat=51.030961&lon=4.461091&ct=livemap" width="600" height="300" allowfullscreen></iframe>
+
+
 
 ---
 

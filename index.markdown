@@ -13,7 +13,7 @@ Naast de nieuwe uren en prijzen - zie [weeklessen](taijiquan/weeklessen.html).
 
 Is de speelplaats in verandering naar een echte kind speel plaats en kan je hier niet meer terecht met je wagen.
 
-Zijn er ook nog werken aan de battelsesteenweg komend half jaar [Officiele communicatie stad Mechelen]([/flyers/Mechelen_2026-27.pdf](https://www.mechelen.be/mobiliteit/wegenwerken-en-hinder/battelsesteenweg-vernieuwingswerken)){:target="_blank"}  
+Zijn er ook nog werken aan de battelsesteenweg komend half jaar [Officiele communicatie stad Mechelen](https://www.mechelen.be/mobiliteit/wegenwerken-en-hinder/battelsesteenweg-vernieuwingswerken){:target="_blank"}  
 in a nutshell :  
 Je kan altijd met de auto komen.  
 Soms moet je omrijden door enkelrichting.  

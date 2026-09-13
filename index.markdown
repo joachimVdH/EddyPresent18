@@ -22,19 +22,15 @@ Rond De Spreeuwen blijven parkeerplaatsen bestaan, maar het kan wat puzzelen zij
 Check de signalisatie — die verandert regelmatig.  
   
 Voor je eigen gemak, gebruik een GPS die met acurate gegevens werkt en je zo de juiste routes aanbied.  
-
-
-
+  
 ---
-
-<br>    
-## De agenda's 
-
+  
+## De agenda's  
+  
 * [Download Agenda Mechelen 2026-27 - pdf - 262kb - 24 juni](/flyers/Mechelen_2026-27.pdf){:target="_blank"}  
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het plusje te drukken - rechts onder de calenders.
-  
   
 ---
 Taiji artikel in Bodytalk magazine - [lees de pdf](/flyers/TaiChi_voor_lichaam_en_geest_bodytalk.PDF){:target="_blank"}

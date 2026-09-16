@@ -31,10 +31,8 @@ Vraag informatie!
 
 [Basisschool De Regenboog, Speelbroek 38 te 1850 Grimbergen](https://goo.gl/maps/j2Zjc7aH1UCb7dHaA){:target="_blank"}  
 
-| woensdag |
-| 18:30-20:00<br>Beginners door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} |
-| vrijdag |
-| 19:00-20:30<br>Beginners en halfgevorderden door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} |
+| woensdag | vrijdag |
+| 18:30-20:00<br>Beginners door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} | 19:00-20:30<br>Beginners en halfgevorderden door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} |
   
 Voor meer informatie & prijzen kan je terecht op [https://nancybeverstaiji.be](https://nancybeverstaiji.be){:target="_blank"}  
   

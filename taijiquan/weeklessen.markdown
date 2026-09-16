@@ -30,6 +30,12 @@ Vraag informatie!
 # Grimbergen
 
 
+[Speelbroek 38 1850 Grimbergen](https://maps.app.goo.gl/TRaCuz7gKN379ZoP6){:target="_blank"}  
+
+| woensdag |
+| 18:30-20:00<br>Beginners door [Nancy Bevers](https://nancybeverstaiji.be){:target="_blank"} |
+
+
 [Basisschool De Regenboog, Speelbroek, 38 te 1850 Grimbergen](https://goo.gl/maps/j2Zjc7aH1UCb7dHaA){:target="_blank"}  
 
 | vrijdag |

@@ -33,10 +33,9 @@ De prijzen zijn als volgt - all in, ook lakenpakket:
 
 volgt nog.  
 
-<!--  
 - Voor een 2-persoonskamer is het 793,- Euro per person (lakens inbegrepen, vol pension) 
 - Voor een 1-persoonskamer is het 982,- Euro per persoon (lakens inbegrepen, vol pension) 
- -->
+ 
 
 Wie een handdoeken-pakket wil, betaald daarvoor 6 euro extra, maar dit is niet verplicht. Wel vermelden aub! 
 

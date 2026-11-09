@@ -9,7 +9,7 @@ footer: true
 Eddy heeft net bericht gehad dat morgen de hele school bezet is vanwege schoolse activiteiten ( die ze eerder niet hadden doorgegeven ). 
 Uitzonderlijk zal er dus *GEEN* les zijn op *dinsdag* 10 november.
 
-De eerst volgende les is dondedag 12 november.
+De eerst volgende les is donderdag 12 november.
 
 ---
 
